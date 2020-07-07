@@ -1,2 +1,2 @@
 # public
-https://ashuang2013.github.io/public/. 
+[test](https://ashuang2013.github.io/public/)
