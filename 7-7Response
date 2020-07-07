@@ -1,0 +1,8 @@
+# QUESTION 1
+'''
+According to Maroney, Machine Learning is using the computer to create the rules that governs a program using both input and output data. The difference
+between traditional programming and machine learning is the orientation of the process of writing code. For traditional programming, the programmer looks
+at the input and output and formulates rules that govern them and the write the code. For machine learning, instead of the programmer writing the rules, 
+the machine will look at both the input and the output and find the rules that govern them.
+'''
+
