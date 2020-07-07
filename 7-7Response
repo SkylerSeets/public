@@ -1,4 +1,4 @@
-[7/7 Response] (https://ashuang2013.github.io/public/)
+[
 # QUESTION 1
 '''
 According to Maroney, Machine Learning is using the computer to create the rules that governs a program using both input and output data. The difference
@@ -16,3 +16,4 @@ the machine will look at both the input and the output and find the rules that g
 The home that costs $97,000 with 3 bd and 1 ba is the best deal since it has the greatest difference from the predicted price using the model that was fit to the 6 homes.
 The home that costs $577,200 with 5 bd and 2 ba is the worst deal since it has the greatest difference from the predicted price using the model.
 '''
+7/7 Response] (https://ashuang2013.github.io/public/)
