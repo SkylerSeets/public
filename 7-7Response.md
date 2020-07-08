@@ -7,8 +7,8 @@ the machine will look at both the input and the output and find the rules that g
 '''
 
 # QUESTION 2
-# The first prediction is 21.996738
-# The second prediction is 21.999975
+The first prediction is 21.996738
+The second prediction is 21.999975
 '''
 The difference between the two depends on where the computer guesses and how accurate its first guess is. Depending on how close the computer guesses, the subsequent
 reduction through MSE will reduce causing a slight difference in the final prediction.
