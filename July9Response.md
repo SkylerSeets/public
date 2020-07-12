@@ -13,4 +13,4 @@ In this graph, there is an increasing difference between training and validation
 
 # QUESTION 4
 [Training and Validation Accuracy Graph](https://raw.githubusercontent.com/ashuang2013/public/master/TrainingAndValidationAccuracy.png)<br/>
-In this graph, the graph is between training and validation accuracy. The graph seems to plateau at around 10 epochs, and the increasing difference between the training and validation accuracy indicates overfitting as the model is memorizing the noise of the data. 
+In this graph, the graph is between training and validation accuracy. The graph seems to plateau at around 10 epochs, and the increasing difference between the training and validation accuracy indicates overfitting as the model is memorizing the noise of the data and not the generalizations of the data that you could use to predict on future data. 
