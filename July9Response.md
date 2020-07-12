@@ -7,4 +7,9 @@ The optimizer is how the model "learns" and the loss function tells the optimize
 The model had an accuracy of .9519 and a loss of .1465 after 30 epochs for the training data. The model had an accuracy of .863 and a loss of .3063 for the testing data. The model is definitely overfit.
 
 # QUESTION 3
-![Training and Validation Graph](ashuang2013/public/TrainingAndValidation.png)
+[Training and Validation Loss Graph](https://raw.githubusercontent.com/ashuang2013/public/master/TrainingAndValidation.png)
+In this graph, training loss is the loss computed by the loss function. Validation loss is another component that is calculated by the loss function but not used to update the weights unlike the actual loss. It is a measure of how far off you were from the correct answer at the current epoch. 
+In this graph, there is an increasing difference between training and validation loss starting at around 5 epochs. This could be due to the model memorizing the noise therefore becoming overfit.
+
+# QUESTION 4
+[Training and Validation Accuracy Graph]()
