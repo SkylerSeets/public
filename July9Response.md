@@ -9,7 +9,8 @@ The model had an accuracy of .9519 and a loss of .1465 after 30 epochs for the t
 # QUESTION 3
 [Training and Validation Loss Graph](https://raw.githubusercontent.com/ashuang2013/public/master/TrainingAndValidationLoss.png)<br/>
 In this graph, training loss is the loss computed by the loss function. Validation loss is another component that is calculated by the loss function but not used to update the weights unlike the actual loss. It is a measure of how far off you were from the correct answer at the current epoch. 
-In this graph, there is an increasing difference between training and validation loss starting at around 5 epochs. This could be due to the model memorizing the noise therefore becoming overfit.
+In this graph, there is an increasing difference between training and validation loss starting at around 5 epochs. However, the model continues to minimize the loss of the training data yet the validation loss seems to increase after a while. 
 
 # QUESTION 4
 [Training and Validation Accuracy Graph](https://raw.githubusercontent.com/ashuang2013/public/master/TrainingAndValidationAccuracy.png)<br/>
+In this graph, the graph is between training and validation accuracy. The graph seems to plateau at around 10 epochs, and the increasing difference between the training and validation accuracy indicates overfitting as the model is memorizing the noise of the data. 
