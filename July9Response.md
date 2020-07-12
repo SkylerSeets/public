@@ -7,4 +7,4 @@ The optimizer is how the model "learns" and the loss function tells the optimize
 The model had an accuracy of .9519 and a loss of .1465 after 30 epochs for the training data. The model had an accuracy of .863 and a loss of .3063 for the testing data. The model is definitely overfit.
 
 # QUESTION 3
-![Training and Validation Graph](C:\Users\AH\Documents\William and Mary\2019-2020 (Freshman)\Summer Semester\DATA 310\Training and Validation.png)
+![Training and Validation Graph](C:/Users/AH/Documents/William and Mary/2019-2020 (Freshman)/Summer Semester/DATA 310/Training and Validation.png)
