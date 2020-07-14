@@ -19,6 +19,22 @@ Blur Image Filter: <br/>
 Edge Filter: <br/>
 ![Edge Filter](https://raw.githubusercontent.com/ashuang2013/public/master/EdgeFilterConv.png)
 
-*What this functionally accomplishes is the ability*
+*What this functionally accomplishing is using a 3x3 matrix called the filter and applies it to every pixel in the image and changes the image (see above).*
 
 This is important in computer vision because computers themselves cannot take an image and then say, sharpen the image. However, the computer can manipulate numbers, and through the manipulation of numbers in the shape of a 3x3 matrix we can create what we want (sharpening the image). 
+
+# QUESTION 2
+Through pooling, I have managed to halve the number of pixels in the image from 512 to 256. The pooling filter used is MAX pooling. Looking at the code, you see that it iterates through the entire 2D image and creates a list called pixels. Then it takes the 2x2 square from the current iterated pixel much like convolutions and then takes those pixel values. It then sorts the pixels in reverse (descending) order and then takes the value at cell 0 and inserts it into the newImage created at the beginning with half the dimensions of the original image. <br/>
+The reason that this is MAX pooling is because since the pixel values are sorted in descending order, we would have the largest values at the beginning of the list and the smallest values at the end. Since we are taking the pixel value at index 0, we are taking the largest value in that sorted array, also known as the max value in that array, hence MAX pooling. <br/>
+Again, since we are halving the overall picture by applying a 2x2 filter that only takes the max pixel value in the 2x2 matrix, we will have a reduction in the size of the image. This method would be useful
+
+# QUESTION 3
+The lecture for today (Coding with Convolutional Neural Network) compared the 
+application of our previously specified deep neural network with a newly specified 
+convolutional neural network.  Instead of using the fashion_MNIST dataset, use the 
+mnist dataset (the hand written letters) to train and compare your DNN and CNN output.      
+Were you able to improve your model by adding the Conv2D and MaxPooling2D layers 
+to your neural network?  Plot the convolutions graphically, include them in your 
+response and describe them.  Edit the convolutions be changing the 32s to either 16 or 
+64 and describe what impact this had on accuracy and training time.  What happens if 
+you add more convolution layers? 
