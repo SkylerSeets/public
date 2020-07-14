@@ -19,7 +19,7 @@ Blur Image Filter: <br/>
 Edge Filter: <br/>
 ![Edge Filter](https://raw.githubusercontent.com/ashuang2013/public/master/EdgeFilterConv.png)
 
-*What this functionally accomplishing is using a 3x3 matrix called the filter and applies it to every pixel in the image and changes the image (see above).*
+*What this is functionally accomplishing is using a 3x3 matrix called the filter and applies it to every pixel in the image and changes the image (see above).*
 
 This is important in computer vision because computers themselves cannot take an image and then say, sharpen the image. However, the computer can manipulate numbers, and through the manipulation of numbers in the shape of a 3x3 matrix we can create what we want (sharpening the image). 
 
