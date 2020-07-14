@@ -31,13 +31,5 @@ Again, since we are halving the overall picture by applying a 2x2 filter that on
 This image has been pooled from the original image in Question 1 that has been convoluted with the Edge Filter. Notice that the image length has been halved from 512x512 pixels to 256x256 pixels. However, notice that the image did not change too much, and still retains the important edge filter from the original image. 
 
 # QUESTION 3
-The lecture for today (Coding with Convolutional Neural Network) compared the 
-application of our previously specified deep neural network with a newly specified 
-convolutional neural network.  Instead of using the fashion_MNIST dataset, use the 
-mnist dataset (the hand written letters) to train and compare your DNN and CNN output.      
-Were you able to improve your model by adding the Conv2D and MaxPooling2D layers 
-to your neural network?  Plot the convolutions graphically, include them in your 
-response and describe them.  Edit the convolutions be changing the 32s to either 16 or 
-64 and describe what impact this had on accuracy and training time.  What happens if 
-you add more convolution layers? 
 Surprisingly, using a single Conv2D and a single MaxPooling2D layer actually decreased the accuracy for the DNN. For the particular digit data set, the training score was 0.9950 and the test score 0.9966 for the DNN. For the CNN with 16, 32, and 64 convolutions, the returned training scores of 0.9944, 0.9953, 0.9941 and test scores of 0.9944 0.9953, 0.9944 respectively. However, the training time increased significantly for CNN compared to DNN, with DNN taking a total 31s to train which the CNN with 16, 32, 64 took a total 183s, 324s, and 547s respectively. Adding more convolutions would increase the time it took to train the data even more with minimal returns on the increase to accuracy since the accuracy is already at 99.4%. 
+![Graph](https://raw.githubusercontent.com/ashuang2013/public/master/July14ResponseGraph.png)
