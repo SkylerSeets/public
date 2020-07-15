@@ -1,4 +1,4 @@
-[Alex's Social Distance Detector](https://youtu.be/LOQFDk6SiP8)
+![Alex's Social Distance Detector](https://youtu.be/LOQFDk6SiP8)
 
 Was your social distance detector e
 ff
