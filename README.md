@@ -6,4 +6,4 @@
 [July 14th Response](https://ashuang2013.github.io/public/July14Response)
 
 # Extra Credit
-[Tommy Jones Extra Credit](https://ashuang2013.github.io/public/Tommy Jones Alumni Talks.docx)
+[Tommy Jones Extra Credit](Tommy Jones Alumni Talks.docx)
