@@ -1,4 +1,4 @@
-From: https://www.youtube.com/watch?v=L3-XaUzaJHU
+From: https://www.youtube.com/watch?v=L3-XaUzaJHU <br/>
 [Alex's Social Distance Detector](https://youtu.be/LOQFDk6SiP8)
 
 Was your social distance detector e
