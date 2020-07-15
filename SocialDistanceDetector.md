@@ -1,4 +1,7 @@
-From: https://www.youtube.com/watch?v=L3-XaUzaJHU <br/> <br/>
+From: https://www.youtube.com/watch?v=L3-XaUzaJHU 
+Image from: https://www.visualcapitalist.com/the-math-behind-social-distancing/ <br/> <br/>
+
+Social Distance Detector (click picture):
 [![Alex's Social Distance Detector](https://raw.githubusercontent.com/ashuang2013/public/master/SocialDistancingThumbnail.jpg)](https://youtu.be/LOQFDk6SiP8)
 
 Was your social distance detector e
