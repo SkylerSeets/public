@@ -6,7 +6,7 @@
 [July 14th Response](https://ashuang2013.github.io/public/July14Response)
 
 # Projects 
-[July 7th Response](https://ashuang2013.github.io/public/SocialDistanceDetector)<br/>
+[Social Distance Detector](https://ashuang2013.github.io/public/SocialDistanceDetector)<br/>
 
 # Extra Credit
 [Tommy Jones Extra Credit](https://ashuang2013.github.io/public/TommyJonesAlumniTalks)
