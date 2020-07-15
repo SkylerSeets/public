@@ -1,4 +1,4 @@
-Tommy Jones is part of a company call in-Q-Tel that is part of the CIA that buys companies much like a venture capitalist. 
+Tommy Jones is part of a company call In-Q-Tel that is part of the CIA that buys companies much like a venture capitalist. 
 
 Tommy believes that Statistics and Data Science are the same thing. Computer Science and Statistics are quickly becoming the most important job skills that anyone can have. He also believes that whoever knows how to code has a big edge over other people. 
 
