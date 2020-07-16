@@ -10,7 +10,7 @@ The sigmoid function for the last dense layer with 1 neuron has a sigmoid activa
 This plt shows the 3x3 relationship between all the variables with the variables correlating to themselves on the y=-x axis. This means that this pairplot function provides visually all the possible combinations between the variables and allows the user to pick up on potential correlations between the variables. For example, there seems to be a exponential relationship between MPG and weight, and a linear relationship between weight and displacement. The function is describing the relationship between each variable including themselves in a plot format. 
 2. ![Accuracy Chart](https://raw.githubusercontent.com/ashuang2013/public/master/RegressionTailChart.png) <br/>
 Looking at the chart, I see that the loss is starting to fluctuate around 2.9, the mae and mse seem to be increasing and the val_loss, val_mae, and val_mse are fluctuating. From these observations, it seems that the model is gettin gmore and more overfit as the epochs increase. The training model continues to increase, however the testing model does not. 
-You can see the MSE increasing, and the distance between the training and the testing accuracy diverging at around 100 epochs and increasing all the way to 1000 epochs. The MAE starts diverging at around 25 epochs but stays constant through the 1000 epochs. 
+You can see the MSE increasing, and the distance between the training and the testing accuracy diverging at around 100 epochs and increasing all the way to 1000 epochs. The MAE starts diverging at around 25 epochs but stays constant through the 1000 epochs. <br/>
 ![MAE Chart](https://raw.githubusercontent.com/ashuang2013/public/master/RegressionMAE.png) <br/>
 
 # QUESTION C (Overfit and Underfit)
