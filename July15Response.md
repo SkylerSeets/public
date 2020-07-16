@@ -12,6 +12,7 @@ This plt shows the 3x3 relationship between all the variables with the variables
 Looking at the chart, I see that the loss is starting to fluctuate around 2.9, the mae and mse seem to be increasing and the val_loss, val_mae, and val_mse are fluctuating. From these observations, it seems that the model is gettin gmore and more overfit as the epochs increase. The training model continues to increase, however the testing model does not. 
 You can see the MSE increasing, and the distance between the training and the testing accuracy diverging at around 100 epochs and increasing all the way to 1000 epochs. The MAE starts diverging at around 25 epochs but stays constant through the 1000 epochs. <br/>
 ![MAE Chart](https://raw.githubusercontent.com/ashuang2013/public/master/RegressionMAE.png) <br/>
+![MSE Chart](https://raw.githubusercontent.com/ashuang2013/public/master/RegressionMSE.png) <br/>
 
 # QUESTION C (Overfit and Underfit)
 1. ![Training Chart](https://raw.githubusercontent.com/ashuang2013/public/master/OverfitTrainingModel.png) <br/>
