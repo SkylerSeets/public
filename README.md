@@ -13,7 +13,8 @@
   TBP
 
 # Projects 
-[Social Distance Detector](https://ashuang2013.github.io/public/SocialDistanceDetector)<br/>
+[Project 1: Social Distance Detector](https://ashuang2013.github.io/public/SocialDistanceDetector)<br/>
+[Project 2: Neural Style Transfer]((https://ashuang2013.github.io/public/Project2)<br/>
 
 # Extra Credit
 [Tommy Jones Extra Credit](https://ashuang2013.github.io/public/TommyJonesAlumniTalks)
