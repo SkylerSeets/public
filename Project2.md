@@ -1,6 +1,6 @@
 ![Final Product](https://raw.githubusercontent.com/ashuang2013/public/master/P1S2.png) <br/> <br/>
 This picture was created by using this 
-[content]() 
+[content](https://raw.githubusercontent.com/ashuang2013/public/master/Picture1.jpg) 
 picture and this
 [style](https://raw.githubusercontent.com/ashuang2013/public/master/Style2.jpg)
 picture. <br/> <br/>
