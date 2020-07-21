@@ -14,7 +14,12 @@ My topic is a recurrent neural network that recommends (predict) anime based on 
 Both the training and the testing accuracy increase over the 15 training epochs. However, the testing accuracy starts to plateau over around 7 epochs at. The training loss kept on decreasing, however, testing loss started fluctuating around 4 epochs and eventually started increasing at around 10, meaning that the model is becoming overfit. Considering that the model reached about 82% testing accuracy and 97% training accuracy, I would say the model is a little overfit but an okay model. 
 
 5.
-
+[Cat1](https://github.com/ashuang2013/public/blob/master/Cat1.jpg?raw=true)
+[Cat2](https://github.com/ashuang2013/public/blob/master/Cat2.jpg?raw=true)
+[Cat3](https://github.com/ashuang2013/public/blob/master/Cat3.jpg?raw=true)
+[Dog1](https://github.com/ashuang2013/public/blob/master/Dog1.jpg?raw=true)
+[Dog2](https://github.com/ashuang2013/public/blob/master/Dog2.jpg?raw=true)
+[Dog3](https://github.com/ashuang2013/public/blob/master/Dog3.jpg?raw=true)
 
 Cat1 is a dog.
 Cat2 is a cat.
