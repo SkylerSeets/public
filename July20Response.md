@@ -8,12 +8,12 @@ My topic is a recurrent neural network that recommends (predict) anime based on 
 
 3. The metric argument is used to track certain data while running the compile function such as MeanSquaredError or Accuracy. In the cats and dogs lab we use the metric argument in order to track our accuracy. This metric is stored in a History object which is returned by the method .fit(). 
 
-4.
+4. <br/>
 ![Acc](https://raw.githubusercontent.com/ashuang2013/public/master/CDTraining.png) <br/>
 ![Loss](https://raw.githubusercontent.com/ashuang2013/public/master/CDTesting.png) <br/>
 Both the training and the testing accuracy increase over the 15 training epochs. However, the testing accuracy starts to plateau over around 7 epochs at. The training loss kept on decreasing, however, testing loss started fluctuating around 4 epochs and eventually started increasing at around 10, meaning that the model is becoming overfit. Considering that the model reached about 82% testing accuracy and 97% training accuracy, I would say the model is a little overfit but an okay model. 
 
-5.
+5. <br/>
 [Cat1](https://github.com/ashuang2013/public/blob/master/Cat1.jpg?raw=true): Cat1 is a dog. <br/>
 [Cat2](https://github.com/ashuang2013/public/blob/master/Cat2.jpg?raw=true): Cat2 is a cat. <br/>
 [Cat3](https://github.com/ashuang2013/public/blob/master/Cat3.jpg?raw=true): Cat3 is a dog. <br/>
