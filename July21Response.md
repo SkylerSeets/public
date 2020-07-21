@@ -21,7 +21,9 @@ Redefine your classifier using the DNNLinearCombinedClassifier() as well as the 
 ![Age Histogram](https://raw.githubusercontent.com/ashuang2013/public/master/AgeHistLinearEstimators.png)
 ![Pairplot](https://raw.githubusercontent.com/ashuang2013/public/master/PairplotLinearEstimators.png) <br/>
 The two plots look about the same, the reason that they are not the same is because of the axis label interval is larger, so there is less detail. Since this pairplot does not include the non-numerical data like gender, it is impossible to generalize on this data. However, based on the data presented, I believe that there is no correlation between these variables. 
+
 2. A categorical column refers to a column that takes all the categories (variables) that is put inside a list. A DenseFeature seems to be a column that holds the particular data that goes with a categorical column.
+
 3. The feature columns that were put inside the LinearClassifier include sex, n_siblings_spouses, parch, class, deck, embark_town, alone, age and fare. I would say that the results of the inital output were pretty bad. A 75% accuracy is pretty bad for a trained model, especially once it starts predicting. The cross featured columns are used to combine certain features if the model is doing poorly on evaluating a problem based on singular features alone. Yes, incorporating a cross feature column between age and gener improved model performance by a little bit (about 2%). 
 
 ![Predicted Probabilites](https://raw.githubusercontent.com/ashuang2013/public/master/PredictedProbabilitesLinearEstimators.png) <br/>
