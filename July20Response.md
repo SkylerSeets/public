@@ -17,7 +17,7 @@ Both the training and the testing accuracy increase over the 15 training epochs.
 ![Cat1](https://raw.githubusercontent.com/ashuang2013/public/master/Cat1.png),
 ![Cat2](https://raw.githubusercontent.com/ashuang2013/public/master/Cat2.png),
 ![Cat3](https://raw.githubusercontent.com/ashuang2013/public/master/Cat3.png) <br/>
-![Dog1](https://raw.githubusercontent.com/ashuang2013/public/master/Dog1.png)
+![Dog1](https://raw.githubusercontent.com/ashuang2013/public/master/Dog1.png),
 ![Dog2](https://raw.githubusercontent.com/ashuang2013/public/master/Dog2.png),
 ![Dog3](https://raw.githubusercontent.com/ashuang2013/public/master/Dog3.png),
 
