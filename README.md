@@ -11,6 +11,7 @@
   
   * Week July 20th <br/>
   [July 20th Response](https://ashuang2013.github.io/public/July20Response)<br/>
+  [July 21st Response](https://ashuang2013.github.io/public/July21Response)<br/>
 
 # Projects 
 [Project 1: Social Distance Detector](https://ashuang2013.github.io/public/SocialDistanceDetector)<br/>
