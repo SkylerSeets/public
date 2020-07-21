@@ -10,7 +10,7 @@
   [July 15th Response](https://ashuang2013.github.io/public/July15Response)
   
   * Week July 20th <br/>
-  TBP
+  [July 20th Response](https://ashuang2013.github.io/public/July20Response)<br/>
 
 # Projects 
 [Project 1: Social Distance Detector](https://ashuang2013.github.io/public/SocialDistanceDetector)<br/>
