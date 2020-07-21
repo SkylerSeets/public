@@ -21,8 +21,11 @@ Both the training and the testing accuracy increase over the 15 training epochs.
 ![Dog2](https://raw.githubusercontent.com/ashuang2013/public/master/Dog2.png),
 ![Dog3](https://raw.githubusercontent.com/ashuang2013/public/master/Dog3.png) 
 
-Use the model to predict 3 dog images and 3 cat images. Upload you images and 
-the prediction. How did your model perform in practice?  Do you have any ideas of 
-how to improve the model’s performance?
+Cat1 is a dog.
+Cat2 is a cat.
+Cat3 is a dog.
+Dog1 is a dog.
+Dog2 is a dog.
+Dog3 is a dog.
 
-CANT, BOTH GOOGLE COLAB AND PYCHARM DECIDE TO NOT WORK
+This model did not predict well at all. I chose Cat1 and Cat2 to be clear cats with no background, only focusing on the fact. Cat3 was a test to see whether the model could recognize a cat based on other features, but it seems to have failed as well. Looking back on this, it seems that the model actually somehow incorporated the background into its evaluation between cat and dog. I base this hypothesis on the fact that the program was able to determine Cat2, which had a white background vs Cat1 and Cat3 which did not have a white background. I would suggest training the model for a few less epochs since it was overfitting by 10 epochs and also train and test the model on blank backgrounds. When evaluating based on real world images, take the cat or dog and cut out the background and then predict based on that. 
