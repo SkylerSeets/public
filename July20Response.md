@@ -14,18 +14,11 @@ My topic is a recurrent neural network that recommends (predict) anime based on 
 Both the training and the testing accuracy increase over the 15 training epochs. However, the testing accuracy starts to plateau over around 7 epochs at. The training loss kept on decreasing, however, testing loss started fluctuating around 4 epochs and eventually started increasing at around 10, meaning that the model is becoming overfit. Considering that the model reached about 82% testing accuracy and 97% training accuracy, I would say the model is a little overfit but an okay model. 
 
 5.
-[Cat1](https://github.com/ashuang2013/public/blob/master/Cat1.jpg?raw=true)
-[Cat2](https://github.com/ashuang2013/public/blob/master/Cat2.jpg?raw=true)
-[Cat3](https://github.com/ashuang2013/public/blob/master/Cat3.jpg?raw=true)
-[Dog1](https://github.com/ashuang2013/public/blob/master/Dog1.jpg?raw=true)
-[Dog2](https://github.com/ashuang2013/public/blob/master/Dog2.jpg?raw=true)
-[Dog3](https://github.com/ashuang2013/public/blob/master/Dog3.jpg?raw=true)
-
-Cat1 is a dog.
-Cat2 is a cat.
-Cat3 is a dog.
-Dog1 is a dog.
-Dog2 is a dog.
-Dog3 is a dog.
+[Cat1](https://github.com/ashuang2013/public/blob/master/Cat1.jpg?raw=true): Cat1 is a dog. <br/>
+[Cat2](https://github.com/ashuang2013/public/blob/master/Cat2.jpg?raw=true): Cat2 is a cat. <br/>
+[Cat3](https://github.com/ashuang2013/public/blob/master/Cat3.jpg?raw=true): Cat3 is a dog. <br/>
+[Dog1](https://github.com/ashuang2013/public/blob/master/Dog1.jpg?raw=true): Dog1 is a dog. <br/>
+[Dog2](https://github.com/ashuang2013/public/blob/master/Dog2.jpg?raw=true): Dog2 is a dog. <br/>
+[Dog3](https://github.com/ashuang2013/public/blob/master/Dog3.jpg?raw=true): Dog3 is a dog. <br/>
 
 This model did not predict well at all. I chose Cat1 and Cat2 to be clear cats with no background, only focusing on the fact. Cat3 was a test to see whether the model could recognize a cat based on other features, but it seems to have failed as well. Looking back on this, it seems that the model actually somehow incorporated the background into its evaluation between cat and dog. I base this hypothesis on the fact that the program was able to determine Cat2, which had a white background vs Cat1 and Cat3 which did not have a white background. I would suggest training the model for a few less epochs since it was overfitting by 10 epochs and also train and test the model on blank backgrounds. When evaluating based on real world images, take the cat or dog and cut out the background and then predict based on that. 
