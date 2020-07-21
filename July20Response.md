@@ -19,7 +19,7 @@ Both the training and the testing accuracy increase over the 15 training epochs.
 ![Cat3](https://raw.githubusercontent.com/ashuang2013/public/master/Cat3.png) <br/>
 ![Dog1](https://raw.githubusercontent.com/ashuang2013/public/master/Dog1.png),
 ![Dog2](https://raw.githubusercontent.com/ashuang2013/public/master/Dog2.png),
-![Dog3](https://raw.githubusercontent.com/ashuang2013/public/master/Dog3.png),
+![Dog3](https://raw.githubusercontent.com/ashuang2013/public/master/Dog3.png) 
 
 Use the model to predict 3 dog images and 3 cat images. Upload you images and 
 the prediction. How did your model perform in practice?  Do you have any ideas of 
