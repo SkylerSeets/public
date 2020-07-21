@@ -11,10 +11,22 @@ Source: https://www.tensorflow.org/tutorials/estimator/premade <br/>
 Source: https://www.tensorflow.org/api_docs/python/tf/estimator/DNNClassifier
 
 5. <br/> 
-For the DNNClassifier, the test set accuracy was 0.800 and Prediction is "Setosa" (59.4%), expected "Setosa", Prediction is "Virginica" (51.4%), expected "Versicolor", Prediction is "Virginica" (71.5%), expected "Virginica." <br/>
-For the DNN
+For the DNNClassifier, the test set accuracy was 0.800 and:
+Prediction is "Setosa" (59.4%), expected "Setosa", <br/>
+Prediction is "Virginica" (51.4%), expected "Versicolor", <br/>
+Prediction is "Virginica" (71.5%), expected "Virginica." <br/>
 
-Redefine your classifier using the DNNLinearCombinedClassifier() as well as the LinearClassifier(). Retrain your model and compare the results using the three different estimators you instantiated.  Rank the three estimators in terms of their performance.
+For the DNNLinearCombinedClassifier, the test set accuracy was 0.733 and: 
+Prediction is "Setosa" (77.4%), expected "Setosa", <br/>
+Prediction is "Virginica" (45.9%), expected "Versicolor", <br/>
+Prediction is "Virginica" (63.0%), expected "Virginica." <br/>
+
+For the LinearClassifier, the test set accuracy was 0.967 and: 
+Prediction is "Setosa" (99.2%), expected "Setosa"
+Prediction is "Versicolor" (97.2%), expected "Versicolor"
+Prediction is "Virginica" (96.1%), expected "Virginica"
+
+For this iris data set, ranking in terms of performance is: LinearClassifier, DNNClassifier and then DNNLinearCombinedClassifier. 
 
 # QUESTION B
 1.<br/>
