@@ -1,32 +1,23 @@
-What is a one-hot-encoded column and why might it be needed when transforming 
-a feature?  Are the source values continuous or discrete? 
-2.
-What is a dense feature?  For example, if you execute 
-example = dict(dftrain)
- and 
-then 
-tf.keras.layers.DenseFeatures(your_features)(your_object).numpy()
-, how 
-has the content of your data frame been transformed?  Why might this be useful?
-3.
-Provide a histogram of the probabilities for the logistic regression as well as your 
-boosted tree model.  How do you interpret the two di
-ff
-erent models?  Are their 
-predictions essentially the same or is there some area where they are noticeable 
-di
-ff
-erent.  Plot the probability density function of the resulting probability predictions 
-from the two models and use them to further illustrate your argument.  Include the 
-ROC plot and interpret it with regard to the proportion of true to false positive rates, 
-as well as the area under the ROC curve.  How does the measure of the AUC reflect 
-upon the predictive power of your model?
-B.
-Boosted Trees continued (with model understanding)
-1.
-Upload your feature values contribution to predicted probability horizontal bar plot 
-as well as your violin plot.  Interpret and discuss the two plots.  Which features 
-appear to contribute the most to the predicted probability?
+# QUESTION A
+1. A one-hot-encoded column is a column that takes a categorical representation (for example third class) and outputs the numerical representation (for example [0,0,1]). A one-hot-encoded column is useful in taking categorical columns and transforming them into a numerical column that the computer can then process and use. The source values are continuous. 
+
+2. A dense feature seems to just extract all the features including the 0s and 1s. All my data has been extracted into an array. This is important because it keeps references to places with information and places without information. This means that important data that could be signified with large areas with 0s could also be recognized by the model. 
+
+![Linear Estimator Probability Chart](https://raw.githubusercontent.com/ashuang2013/public/master/BTLinearEstimatorProb.png) <br/>
+![Boosted Tree Probability Chart](https://raw.githubusercontent.com/ashuang2013/public/master/BoostedTreeProb.png) <br/>
+![ROC Curve](https://raw.githubusercontent.com/ashuang2013/public/master/BTROCCurve.png)
+3. The models both predict the same thing: the percent chance that the individual will survive the Titanic sinking. The two models pretty much predicted the same thing, I was not able to notice a significant difference between the two predicted probability graphs. It should be noted that the Linear Estimator had an accuracy of 77% and a precision of 70% and the Boosted Tree had an accuracy of 82% and a precision of 78%. There is not a large difference between both the accuracy and precision (5% and 8% respectively); if there was to be a noticeable difference on the two graphs, there would need to be a larger difference between the precision on the two models. 
+
+The ROC plot shows that the model itself is acutally pretty good: the curve itself is almost a 90 degree angle towards the upper left corner. The larger the area under the curve, the better the model is. Since this curve plots the model's true postive rate and false postiive rate, we want a high true positive rate and a low false positive rate. Since the true positive rate and false positive rate is summed to 100%, they're connected and thus create the curve portion. 
+
+Plot the probability density function of the resulting probability predictions 
+from the two models and use them to further illustrate your argument. 
+
+# QUESTION B
+![Feature Contribution](https://raw.githubusercontent.com/ashuang2013/public/master/FeatureContProb.png) <br/>
+![Violin Plot](https://raw.githubusercontent.com/ashuang2013/public/master/ViolinPlot.png)
+1. it seems that your gender and age seem to contribute the most toward the probability towards survival. The feature values contribution graph gives a chart on the features that contribute towards the predicted probability of survival for a particular individual. The red indicates that the individual is more likely to die and the green indicates that the individual is more likely to survive. The violin plot is a more generalized version of the feature values contribution graph that plots the entire dataset with its ranges (max and min) and its contributions. For example, there was a perosn aged 80 on the Titanic and it is reflected in the plot where there is a thinn line that contributed almost +50% to his/her probability of survival. The green square is the location inside the range for the individual selected. 
+
 2.
 Upload at least 2 feature importance plots.  Which features are the most important 
 in their contribution to your models predictive power?
