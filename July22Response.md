@@ -3,8 +3,7 @@
 
 2. A dense feature seems to just extract all the features including the 0s and 1s. All my data has been extracted into an array. This is important because it keeps references to places with information and places without information. This means that important data that could be signified with large areas with 0s could also be recognized by the model. 
 
-![Linear Estimator Probability Chart](https://raw.githubusercontent.com/ashuang2013/public/master/BTLinearEstimatorProb.png) <br/>
-![Boosted Tree Probability Chart](https://raw.githubusercontent.com/ashuang2013/public/master/BoostedTreeProb.png) <br/>
+linear boosted placeholder
 ![ROC Curve](https://raw.githubusercontent.com/ashuang2013/public/master/BTROCCurve.png)
 3. The models both predict the same thing: the percent chance that the individual will survive the Titanic sinking. The two models pretty much predicted the same thing, I was not able to notice a significant difference between the two predicted probability graphs. It should be noted that the Linear Estimator had an accuracy of 77% and a precision of 70% and the Boosted Tree had an accuracy of 82% and a precision of 78%. There is not a large difference between both the accuracy and precision (5% and 8% respectively); if there was to be a noticeable difference on the two graphs, there would need to be a larger difference between the precision on the two models. 
 
