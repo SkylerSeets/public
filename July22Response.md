@@ -3,14 +3,12 @@
 
 2. A dense feature seems to just extract all the features including the 0s and 1s. All my data has been extracted into an array. This is important because it keeps references to places with information and places without information. This means that important data that could be signified with large areas with 0s could also be recognized by the model. 
 
-linear boosted placeholder
-![ROC Curve](https://raw.githubusercontent.com/ashuang2013/public/master/BTROCCurve.png)
-3. The models both predict the same thing: the percent chance that the individual will survive the Titanic sinking. The two models pretty much predicted the same thing, I was not able to notice a significant difference between the two predicted probability graphs. It should be noted that the Linear Estimator had an accuracy of 77% and a precision of 70% and the Boosted Tree had an accuracy of 82% and a precision of 78%. There is not a large difference between both the accuracy and precision (5% and 8% respectively); if there was to be a noticeable difference on the two graphs, there would need to be a larger difference between the precision on the two models. 
+![Linear Estimator Classifier Probabilies](https://raw.githubusercontent.com/ashuang2013/public/master/LinearEstimatorProb.png) <br/>
+![Boosted Trees Classifier Probabilies](https://raw.githubusercontent.com/ashuang2013/public/master/BoostedTreesProb.png) <br/>
+roc curve placeholder.
+3. The models both predict the same thing: the percent chance that the individual will survive the Titanic sinking. The two models predict the chance of survival from the Titanic sinking and graphs the probabililtes that it predicted the individual would survive or not. For example, the model would predict a percentage the individual would survive, and tally the total number of times it calculated the percentage. The two models predicted quite different probabilites. For the boosted trees classifier, it predicted a 0.1 chance of survival 80% of the time while the linear classifier classified a 0.1 chance of survival 70% of the time. Also, the data predicted by the boosted trees classifier was gather around the poles (0 and 1) while the linear classifer had a more even distribution over the data (I say even very loosely, if you ignore the glaring 70% prediction rate). It should be noted that the Linear Estimator had an accuracy of 77% and a precision of 70% and the Boosted Tree had an accuracy of 82% and a precision of 78%. There is not a large difference between both the accuracy and precision (5% and 8% respectively); if there was to be a noticeable difference on the two graphs, there would need to be a larger difference between the precision on the two models. 
 
 The ROC plot shows that the model itself is acutally pretty good: the curve itself is almost a 90 degree angle towards the upper left corner. The larger the area under the curve, the better the model is. Since this curve plots the model's true postive rate and false postiive rate, we want a high true positive rate and a low false positive rate. Since the true positive rate and false positive rate is summed to 100%, they're connected and thus create the curve portion. 
-
-Plot the probability density function of the resulting probability predictions 
-from the two models and use them to further illustrate your argument. 
 
 # QUESTION B
 ![Feature Contribution](https://raw.githubusercontent.com/ashuang2013/public/master/FeatureContProb.png) <br/>
