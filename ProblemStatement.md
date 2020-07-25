@@ -1,0 +1,4 @@
+Recently, the prevalence of targeted advertisements based off our personal big data has increased. As technology continues to advance at a rapid rate, the question becomes not what we can do, but what and how we can apply it to our daily lives. Everyone has probably struggled with a decision between clothes before, or what to watch on Netflix. For me, I'm more interested in Japanese animation (anime). So, in a selfish way, I will apply what I have learned and hopefully design and create a model that can take an input watchlist that then outputs some recommendations on additional anime that I would like and should watch. 
+
+For more information on the applications and problems posed, please check out this post by me: <br/>
+[July 20th Response Question A](https://ashuang2013.github.io/public/July20Response)<br/>
