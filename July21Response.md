@@ -29,10 +29,9 @@ Prediction is "Virginica" (96.1%), expected "Virginica"
 For this iris data set, ranking in terms of performance is: LinearClassifier, DNNClassifier and then DNNLinearCombinedClassifier. 
 
 # QUESTION B
-1.<br/>
 ![Age Histogram](https://raw.githubusercontent.com/ashuang2013/public/master/AgeHistLinearEstimators.png)
 ![Pairplot](https://raw.githubusercontent.com/ashuang2013/public/master/PairplotLinearEstimators.png) <br/>
-The two plots look about the same, the reason that they are not the same is because of the axis label interval is larger, so there is less detail. Since this pairplot does not include the non-numerical data like gender, it is impossible to generalize on this data. However, based on the data presented, I believe that there is no correlation between these variables. 
+1. The two plots look about the same, the reason that they are not the same is because of the axis label interval is larger, so there is less detail. Since this pairplot does not include the non-numerical data like gender, it is impossible to generalize on this data. However, based on the data presented, I believe that there is no correlation between these variables. 
 
 2. A categorical column refers to a column that takes all the categories (variables) that is put inside a list. A DenseFeature seems to be a column that holds the particular data that goes with a categorical column. It fills empty spaces with zeroes to mark the locations where data exists or doesn't exist.
 
