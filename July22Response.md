@@ -18,6 +18,6 @@ from the two models and use them to further illustrate your argument.
 ![Violin Plot](https://raw.githubusercontent.com/ashuang2013/public/master/ViolinPlot.png)
 1. it seems that your gender and age seem to contribute the most toward the probability towards survival. The feature values contribution graph gives a chart on the features that contribute towards the predicted probability of survival for a particular individual. The red indicates that the individual is more likely to die and the green indicates that the individual is more likely to survive. The violin plot is a more generalized version of the feature values contribution graph that plots the entire dataset with its ranges (max and min) and its contributions. For example, there was a perosn aged 80 on the Titanic and it is reflected in the plot where there is a thinn line that contributed almost +50% to his/her probability of survival. The green square is the location inside the range for the individual selected. 
 
-2.
-Upload at least 2 feature importance plots.  Which features are the most important 
-in their contribution to your models predictive power?
+![Abosolute Value DFC](https://raw.githubusercontent.com/ashuang2013/public/master/AbsoluteDFC.png) <br/>
+![Gain Feature](https://raw.githubusercontent.com/ashuang2013/public/master/GainFeature.png)
+2. If looking strictly at gain feature importances (which features increase your probability of surviving?), gender, fare, age and class seem to give you the highest increases. However, if we take into consideration the absolute values, then the features change to gender, age, class, fare (a reorganization of the features which are important). However, it should be noted that the absolute value graph also include the absolute values of features with negative probabilities, which lessen your chance of survival. 
