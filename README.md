@@ -1,4 +1,4 @@
-# Public Responses (WE NEVER STOP)
+# Public Responses
   * Week July 6th <br/>
   [July 7th Response](https://ashuang2013.github.io/public/July7Response)<br/>
   [July 7th Maroney Exercises Response](https://ashuang2013.github.io/public/July7ExerciseMaroney)<br/>
