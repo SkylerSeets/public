@@ -24,6 +24,7 @@
 
 # Final Project
 [Problem Statement](https://ashuang2013.github.io/public/ProblemStatement)<br/>
+[Data](https://ashuang2013.github.io/public/FinalProjectData)<br/>
 
 # Extra Credit
 [Tommy Jones Extra Credit](https://ashuang2013.github.io/public/TommyJonesAlumniTalks)
