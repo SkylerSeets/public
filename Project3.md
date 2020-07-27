@@ -1,11 +1,10 @@
-write a one to two page description regarding your work. be sure to include plots and illustrations that describe your application of the selected machine learning method. 
 __*Disclaimer here: I was not able to use the entire dataset, so I used as much as I could in order to build an okay model (mae below 50 on the training set)*__ <br/> <br/>
 
 DATASET: <br/>
 The dataset includes 10000 overhead pictures of Accra that each are 480x480 pixels. These pictures are labeled *.jpeg, where * is a number between 1 and 10000 corresponding to each of the 10000 pictures in the dataset. Another csv contains the population in each image. The goal of this project (the model), is to build and train a model that can accurately be given an image and then predict the population in that image based on the features present in that test image. The dataset was split into 9000 training images and 1000 testing images. For this task, since we are dealing with image recognition, the CNN should be expected to perform better than the DNN. 
 
 BUILDING THE MODEL: <br/>
-I built two models: a DNN and a CNN. The DNN was designed with a Flatten layer followed by three layers with 128, 64 and 1 neurons per layer respectively. The DNN was compiled with the RMSprop optimizer, the MSE loss function and measured both the MAE and MSE (MAE^2). I trained the DNN with 1000 images in the training set and 1000 images in the testing set. I used 25 epochs with 100 steps per epoch and a batch size of 10. <br/>
+I built two models: a DNN and a CNN. The DNN was designed with a Flatten layer followed by three layers with 128, 64 and 1 neurons per layer respectively. The DNN was compiled with the RMSprop optimizer, the MSE loss function and measured both the MAE and MSE (MAE^2). I trained the DNN with 1000 images in the training set and 1000 images in the testing set. I used 25 epochs with 100 steps per epoch and a batch size of 10. <br/> <br/>
 
 The CNN was built off the DNN by adding 3 additional convolutional plus max pooling layers. The convolutions doubled with each layer, with 16, 32 and 64 convolutions per layer respectively. The CNN was compiled with the RMSprop optimizer, the MSE loss function and measured both the MAE and MSE (MAE^2). I trained the CNN with 250 images in the training set and 1000 images in the testing set. I used 25 epochs with 10 steps per epoch and a batch size of 25. <br/> <br/>
 
