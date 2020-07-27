@@ -1,4 +1,4 @@
-# Public Responses
+# Public Responses (WE NEVER STOP)
   * Week July 6th <br/>
   [July 7th Response](https://ashuang2013.github.io/public/July7Response)<br/>
   [July 7th Maroney Exercises Response](https://ashuang2013.github.io/public/July7ExerciseMaroney)<br/>
@@ -20,6 +20,7 @@
 # Projects 
 [Project 1: Social Distance Detector](https://ashuang2013.github.io/public/SocialDistanceDetector)<br/>
 [Project 2: Neural Style Transfer](https://ashuang2013.github.io/public/Project2)<br/>
+[Project 3: THE RIDE NEVER ENDS](https://ashuang2013.github.io/public/Project3)<br/>
 
 # Final Project
 [Problem Statement](https://ashuang2013.github.io/public/ProblemStatement)<br/>
