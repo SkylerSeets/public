@@ -6,5 +6,6 @@ These are three images that I pulled from the complete 10000 image dataset. I ma
 
 The model returned 0.04274386 for 4827.jpeg compared to the real value 68.8593444824219. <br/>
 The model returned 0.04743501 for 6212.jpeg compared to the real value 46.7590255737305. <br/>
-The model returned 0.04669612 for 8197.jpeg compared to the real value 110.827850341797. 
+The model returned 0.04669612 for 8197.jpeg compared to the real value 110.827850341797. <br/> <br/>
 
+I believe that the model was trained on too little data, as I can only manage about 250 images. This is what I believe is giving my model such bad predictions.
