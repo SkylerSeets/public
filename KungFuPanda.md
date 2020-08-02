@@ -1,299 +1,300 @@
-Kung Fu Panda
-[A mysterious warrior, with his identity hidden beneath a flowing robe and wide-brimmed hat, treks with his staff across a bridge above a huge lake.]
-NARRATOR (PO): [In voiceover] Legend tells of a legendary warrior whose kung fu skills were the stuff of legend. He traveled the land in search of worthy foes. 
-[The warrior approaches a large tavern towering in front of him. A gang of bandits harassing the rabbit staff inside are startled when the warrior enters abruptly, and stare silently as he passes them and sits at a table. As he eats, the gang surrounds him.]
-GANG BOSS: I see you like to chew. Maybe you should chew ON MY FIST! [Slams fist onto table.] 
-NARRATOR (PO): The warrior said nothing for his mouth was full. [He holds up his paw.] Then he swallowed. [He swallows.] And then he spoke. 
-LEGENDARY WARRIOR: Enough talk. Let's fight! SHA-SHA-BOOEY! 
-[The warrior delivers a series of punches and kicks and the whole gang goes flying in various directions.]
-NARRATOR (PO): He was so deadly in fact that his enemies would go blind from overexposure to pure awesomeness! 
-NINJA CAT: [blindly flailing about] MY EYES! 
-GATOR: HE'S TOO AWESOME! 
-SMITTEN BUNNY: And attractive! 
-GRATEFUL BUNNY: How can we repay you? 
-LEGENDARY WARRIOR: There is no charge for awesomeness... or attractiveness. 
-[One hundred assassins appear and surround the warrior. The entire bar swells, packed to the rafters with ninjas.]
-LEGENDARY WARRIOR: KABLOOEY! 
-[The roof explodes and the warrior with a cloud of ninjas erupts into the sky. Like a tornado, the warrior twists and kicks them away rapidly.]
-NARRATOR (PO): It mattered not how many foes he faced. They were no match for his bodacity. 
-[Two groups of thousands of foes leap at the warrior while in the air, but with a single flashy move he sends them flying. The beaten warriors plummet into the lake like rain as the warrior treks back across the bridge.]
-NARRATOR (PO): Never before had a panda been so feared... and so loved. [He looks up towards the Jade Palace, where a group of five warriors stand in various poses.] Even the most heroic heroes in all of China, the Furious Five, bowed in respect to this great master. 
-[The Five leap down from the palace, land in front of the warrior, and bow respectfully, before flanking in positions on both sides of him.]
-MONKEY: We should hang out. 
-LEGENDARY WARRIOR: Agreed. 
-[The Five strike an attack pose, as they face an army of thousands of bandits.]
+Kung Fu Panda <br/>
+[A mysterious warrior, with his identity hidden beneath a flowing robe and wide-brimmed hat, treks with his staff across a bridge above a huge lake.] <br/>
+NARRATOR (PO): [In voiceover] Legend tells of a legendary warrior whose kung fu skills were the stuff of legend. He traveled the land in search of worthy foes. <br/> 
+[The warrior approaches a large tavern towering in front of him. A gang of bandits harassing the rabbit staff inside are startled when the warrior enters abruptly, and stare silently as he passes them and sits at a table. As he eats, the gang surrounds him.] <br/>
+GANG BOSS: I see you like to chew. Maybe you should chew ON MY FIST! [Slams fist onto table.] <br/>
+NARRATOR (PO): The warrior said nothing for his mouth was full. [He holds up his paw.] Then he swallowed. [He swallows.] And then he spoke. <br/>
+LEGENDARY WARRIOR: Enough talk. Let's fight! SHA-SHA-BOOEY! <br/>
+[The warrior delivers a series of punches and kicks and the whole gang goes flying in various directions.] <br/>
+NARRATOR (PO): He was so deadly in fact that his enemies would go blind from overexposure to pure awesomeness! <br/>
+NINJA CAT: [blindly flailing about] MY EYES! <br/>
+GATOR: HE'S TOO AWESOME! <br/>
+SMITTEN BUNNY: And attractive! <br/>
+GRATEFUL BUNNY: How can we repay you? <br/>
+LEGENDARY WARRIOR: There is no charge for awesomeness... or attractiveness. <br/>
+[One hundred assassins appear and surround the warrior. The entire bar swells, packed to the rafters with ninjas.] <br/>
+LEGENDARY WARRIOR: KABLOOEY! <br/>
+[The roof explodes and the warrior with a cloud of ninjas erupts into the sky. Like a tornado, the warrior twists and kicks them away rapidly.] <br/>
+NARRATOR (PO): It mattered not how many foes he faced. They were no match for his bodacity. <br/>
+[Two groups of thousands of foes leap at the warrior while in the air, but with a single flashy move he sends them flying. The beaten warriors plummet into the lake like rain as the warrior treks back across the bridge.] <br/>
+NARRATOR (PO): Never before had a panda been so feared... and so loved. [He looks up towards the Jade Palace, where a group of five warriors stand in various poses.] Even the most heroic heroes in all of China, the Furious Five, bowed in respect to this great master. <br/>
+[The Five leap down from the palace, land in front of the warrior, and bow respectfully, before flanking in positions on both sides of him.] <br/>
+MONKEY: We should hang out. <br/>
+LEGENDARY WARRIOR: Agreed. <br/>
+[The Five strike an attack pose, as they face an army of thousands of bandits.] <br/>
 NARRATOR (PO): But hanging out would have to wait. 'Cause when you're facing the ten thousand demons of Demon Mountain— [He slices off the heads of the bandits' spears with a shiny green sword and leaps into battle with the Five.] ... there's only one thing that matters. And that's— 
-[Freezing in mid-air, the Five talk to the warrior in a strange voice.]
-MONKEY: Po! Get up! 
-TIGRESS: You'll be late for work! 
-PO: Whuh? 
-[The warrior suddenly falls, and Po lands hard on a wooden floor of his own room, revealing that the whole battle was actually a dream. He tries to clear his head and wake up.]
-MR. PING: Po! Get up! 
-[Po looks around his room and see that it's filled with various kung fu posters (including a poster featuring all of the Five) and souvenirs, and a wooden version of the Sword of Heroes (the green sword). Po sighs and attempts to kick himself to his feet, but finds his belly too worthy a foe.]
-MR. PING: Po! What are you doing up there? 
-PO: Uh, nothing! [He hops to his feet and faces his action figures.] Hi-ya! Monkey! Mantis! Crane! Viper! Tigress! Grrraahh— 
-[Outside on the balcony of the neighboring house, a pig watering flowers stares at Po. Po tries to play it cool and then quickly ducks out of sight.]
-MR. PING: Po! Let's go! You're late for work! 
-PO: Coming! 
-[He takes a ninja star from his floor and chucks it at the wall. It bounces off. He throws the star again, but it bounces off again. He quickly picks it up and heads downstairs where he trips and falls the rest of the way. He falls flat on his face on the kitchen floor. A panda-shaped shadow looms over Po.]
-PO: Sorry, Dad. 
-MR. PING: 'Sorry' doesn't make the noodles. 
-[Reveals that the shadow is actually caused by a basket being carried by a small goose. Po gets to work in the shop's small kitchen.]
-MR. PING: What were you doing up there, all that noise? 
-PO: Oh, nothing. Just had a crazy dream. 
-MR. PING: About what? 
-PO: Huh? 
-MR. PING: What were you dreaming about? [He puts down the basket and begins chopping vegetables next to Po as he listens.] 
-PO: What was I...? Uh... I was dreaming about... [He sees Mr. Ping listening expectantly, and can't bring himself to say the truth. He glances down at the bowl he's holding.] Uh... noodles. 
-MR. PING: [He stops chopping vegetables.] Noodles? You were really dreaming about noodles? 
-PO: Uh, yeah. What else would I be dreaming about? 
-[Po hands a bowl of noodles to a customer, then realizes his throwing star is sitting in it.]
-PO: [to customer] Oh, careful, that soup is... sharp! 
-MR. PING: Oh, happy day! My son, finally having the noodle dream! [He begins rummaging through something and arrives with an apron and a noodle hat. He ties the apron around Po's waist and places the noodle hat in Po's paws.] You don't know how long I have been waiting for this moment. This is a sign, Po! 
-PO: [He looks at the noodle hat nervously.] Uh... a sign of what? 
-MR. PING: You are almost ready to be entrusted with the secret ingredient of my "Secret Ingredient Soup". And then you will fulfill your destiny and take over the restaurant! [He quickly runs over to section of wall with three portraits and points at them accordingly.] Just as I took it over from my father, who took it over from his father, who won it from a friend in a game of mahjong. 
-PO: Dad, Dad, Dad, it was just a dream. [chuckles nervously] 
-MR. PING: No, it was the dream. We are noodle folk. Broth runs through our veins. [While saying this, he hands two customers their bowls without even looking at them.] 
-PO: But Dad, didn't you ever, I dunno, want to do something else? Something besides noodles? 
-MR. PING: Actually, when I was young and crazy, I thought about running away and learning how to make tofu. 
-PO: So why didn't you?! 
-MR. PING: Oh, because it was a stupid dream. Can you imagine me making tofu? [He laughs at the thought.] No. We all have our place in this world. Mine is here. And yours is— 
-PO: I know. Is here. 
-MR. PING: No, it's at tables two, five, seven, and twelve. [He loads Po's arms with bowls of soup.] Service with a smile! 
+[Freezing in mid-air, the Five talk to the warrior in a strange voice.] <br/>
+MONKEY: Po! Get up! <br/>
+TIGRESS: You'll be late for work! <br/>
+PO: Whuh? <br/>
+[The warrior suddenly falls, and Po lands hard on a wooden floor of his own room, revealing that the whole battle was actually a dream. He tries to clear his head and wake up.] <br/>
+MR. PING: Po! Get up! <br/>
+[Po looks around his room and see that it's filled with various kung fu posters (including a poster featuring all of the Five) and souvenirs, and a wooden version of the Sword of Heroes (the green sword). Po sighs and attempts to kick himself to his feet, but finds his belly too worthy a foe.] <br/>
+MR. PING: Po! What are you doing up there? <br/>
+PO: Uh, nothing! [He hops to his feet and faces his action figures.] Hi-ya! Monkey! Mantis! Crane! Viper! Tigress! Grrraahh— <br/>
+[Outside on the balcony of the neighboring house, a pig watering flowers stares at Po. Po tries to play it cool and then quickly ducks out of sight.] <br/>
+MR. PING: Po! Let's go! You're late for work! <br/>
+PO: Coming! <br/>
+[He takes a ninja star from his floor and chucks it at the wall. It bounces off. He throws the star again, but it bounces off again. He quickly picks it up and heads downstairs where he trips and falls the rest of the way. He falls flat on his face on the kitchen floor. A panda-shaped shadow looms over Po.] <br/>
+PO: Sorry, Dad. <br/>
+MR. PING: 'Sorry' doesn't make the noodles. <br/>
+[Reveals that the shadow is actually caused by a basket being carried by a small goose. Po gets to work in the shop's small kitchen.] <br/>
+MR. PING: What were you doing up there, all that noise? <br/>
+PO: Oh, nothing. Just had a crazy dream. <br/>
+MR. PING: About what? <br/>
+PO: Huh? <br/>
+MR. PING: What were you dreaming about? [He puts down the basket and begins chopping vegetables next to Po as he listens.] <br/>
+PO: What was I...? Uh... I was dreaming about... [He sees Mr. Ping listening expectantly, and can't bring himself to say the truth. He glances down at the bowl he's holding.] Uh... noodles. <br/>
+MR. PING: [He stops chopping vegetables.] Noodles? You were really dreaming about noodles? <br/>
+PO: Uh, yeah. What else would I be dreaming about? <br/>
+[Po hands a bowl of noodles to a customer, then realizes his throwing star is sitting in it.] <br/>
+PO: [to customer] Oh, careful, that soup is... sharp! <br/>
+MR. PING: Oh, happy day! My son, finally having the noodle dream! [He begins rummaging through something and arrives with an apron and a noodle hat. He ties the apron around Po's waist and places the noodle hat in Po's paws.] You don't know how long I have been waiting for this moment. This is a sign, Po! <br/>
+PO: [He looks at the noodle hat nervously.] Uh... a sign of what? <br/>
+MR. PING: You are almost ready to be entrusted with the secret ingredient of my "Secret Ingredient Soup". And then you will fulfill your destiny and take over the restaurant! [He quickly runs over to section of wall with three portraits and points at them accordingly.] Just as I took it over from my father, who took it over from his father, who won it from a friend in a game of mahjong. <br/>
+PO: Dad, Dad, Dad, it was just a dream. [chuckles nervously] <br/>
+MR. PING: No, it was the dream. We are noodle folk. Broth runs through our veins. [While saying this, he hands two customers their bowls without even looking at them.] <br/>
+PO: But Dad, didn't you ever, I dunno, want to do something else? Something besides noodles? <br/>
+MR. PING: Actually, when I was young and crazy, I thought about running away and learning how to make tofu. <br/>
+PO: So why didn't you?! <br/>
+MR. PING: Oh, because it was a stupid dream. Can you imagine me making tofu? [He laughs at the thought.] No. We all have our place in this world. Mine is here. And yours is— <br/>
+PO: I know. Is here. <br/>
+MR. PING: No, it's at tables two, five, seven, and twelve. [He loads Po's arms with bowls of soup.] Service with a smile! <br/>
 [A gong sounds in the distance. Po sighs and looks out the window at the distant Jade Palace.
-An old red panda is playing a flute. He is surrounded by the bushes and trees that nestle between the Training Hall. From behind the bushes, stealthy dark shapes move in the foreground. He is still playing and seems oblivious. Five figures explode from the undergrowth simultaneously, diving on him. He moves like lightning, the flute now wielded like a staff. He deflects, blocks, dodges, parries, and the attackers go flying. They roll and pick themselves up, turning to face him, who is now standing—poised—ready for their next move.]
-SHIFU: Well done, students... if you were trying to disappoint me. 
-[He uses his flute to point at the Five, who respectfully bow as their name is mentioned.]
-SHIFU: Tigress, you need more ferocity. Monkey, greater speed. Crane—height. Viper—subtlety. Mantis— 
-ZENG: Master Shifu. 
-[Shifu suddenly points the flute at a scared palace goose.]
-SHIFU: [impatiently] What?! 
-ZENG: [startled] Aah! It's Master Oogway. He wants to see you. 
-[Shifu looks up, concerned. He runs to the Jade Palace, which is lined with palace geese. The door bursts open. Shifu enters and comes to a halt. Candles and emerald lighting fill the room. He takes a deep breath and bows.]
-SHIFU: Master Oogway? You summoned me. [He looks up, still bowing.] Is something wrong? 
-[He looks up at a tortoise shell perfectly balanced on a thin wooden staff. Master Oogway, a wise and elderly tortoise, emerges slowly from his meditative position and climbs down effortlessly.]
-OOGWAY: Why must something be wrong for me to want to see my old friend? 
-SHIFU: So... nothing's wrong? 
-OOGWAY: Well, I didn't say that. 
-[Shifu looks up, concerned. Oogway opens his mouth... and blows out a candle. And another candle. And another. And another. Oogway opens his mouth to say something, then blows out another candle. Finally, an impatient Shifu uses his kung fu to blow them all out.]
-SHIFU: You were saying? 
-OOGWAY: I have had a vision: Tai Lung will return. 
-[Shifu looks stricken. Quick, impressionistic images of a large, shadowy figure (Tai Lung) flash in his mind. Shifu is rattled.]
-SHIFU: That is impossible! He is in prison! 
-OOGWAY: Nothing is impossible. 
-SHIFU: [He stares in horror for a second before reacting.] Zeng! 
-[Zeng comes flying in, and Shifu gets in his face.]
-SHIFU: Fly to Chorh-Gom Prison and tell them to double the guards, double their weapons. Double everything! Tai Lung does not leave that prison! 
-ZENG: Yes, Master Shifu! 
-[The goose flies off, but then hits a column. Then he is off. Back on Oogway, as he walks away from Shifu.]
-OOGWAY: [to himself] One often meets his destiny on the road he takes to avoid it. 
-SHIFU: [He rushes back to Oogway.] W-we have to do something. We can't just let him march on the Valley and take his revenge! He'll, he'll— 
-OOGWAY: [He looks into the water of the Moon Pool.] Your mind is like this water, my friend. When it is agitated, it becomes difficult to see. But if you allow it to settle, the answer becomes clear. 
-[Shifu and Oogway stare into the pool. Oogway settles the water with his staff, revealing the reflection of an intricately-carved dragon clutching a scroll in its mouth.]
-SHIFU: [He looks up.] The Dragon Scroll... 
-OOGWAY: [Looking up with Shifu.] It is time. 
-SHIFU: [Looks at Oogway.] But who? Who is worthy to be trusted with the secret to limitless power? To become... the Dragon Warrior? 
-OOGWAY: [A short pause.] I don't know. [He smiles. Shifu stares at him.] 
-[Back at the noodle shop, Po is serving the customers at their tables. However, he struggles to squeeze through the small gaps. He accidentally knocks into a table.]
-PIG CUSTOMER: Hey, watch it Po! 
-PO: Oh, sorry. Suck it up— [sucks in stomach] 
-[His belly gets stuck between two tables, and in his attempt to lift himself free, Po accidentally sticks his tail puff into a rabbit family's soup bowl, making the rabbit children cry.]
-PO: Oops, sorry! A thousand pardons... 
-[A gong sounds. Po turns, and sees a group of palace staff sticking a poster on the wall of the restaurant.]
-PO: What?! [He runs over to the poster (which features the Furious Five), reads the writing, and gets very excited.] Master Oogway's choosing the Dragon Warrior. Today! [Sets down noodle bowls.] Everyone! Everyone! Go, get to the Jade Palace! One of the Five is going to get the Dragon Scroll! 
-[He begins ushering out the customers. Mr. Ping looks up from the counter.]
-PO: [Runs over to a customer trying to quickly finish their food.] We've been waiting a thousand years for this — just take the bowl! [Runs over to a rabbit counting coins.] This is the greatest day in kung fu history! Don't worry about it, just go! [He begins following the customers out of the restaurant until—] 
-MR. PING: Po! Where are you going? 
-[Po struggles to hide his dismay as he turns back to his father.]
-PO: To the... Jade Palace?... [Inches slightly out of door.] 
-MR. PING: But you're forgetting your noodle cart! [He rolls a heavy-looking noodle cart towards Po.] The whole Valley will be there, and you'll sell noodles to all of them! 
-PO: Selling noodles? [Mr. Ping nods happily.] But Dad, I was kinda thinking maybe I— 
-MR. PING: [smiling] Yeah? 
-PO: I was kinda thinking maybe I... 
-MR. PING: [still smiling] Uh-huh? 
-PO: ...could also sell the bean buns. They're-they're about to go bad. 
-MR. PING: That's my boy! I told you that dream was a sign! [He walks back into the shop.] 
-PO: [Looks down at the cart, disappointed.] Yeah, heh heh, glad I had it. 
-[At the Palace Arena just below the Jade Palace, palace staff are preparing for the tournament while children play and the villagers stream into the arena. The camera then moves outside the entrance doors and zooms down the thousand steps leading down to the village. It suddenly stops at the bottom where Po is staring open-mouthed at the daunting task ahead of him. He closes his mouth with a gulp, and begins to ascend the stairs, though is severely hindered by the noodle cart. Villagers move past him as he slowly makes progress. Some time later, Po is still ascending the stairs, dragging his cart behind him, exhausted. He stops for a breather and flops onto his back.]
-PO: I'm... almost there... huh? [He sits up, and sees to his despair that he has only made it up seven steps.] No! Oh noooo! 
-[Two pig villagers, the Shaw brothers, pass by and meet Po on the stairs.]
-K.G. SHAW: Sorry, Po. 
-J.R. SHAW: We'll bring you back a souvenir. 
-[They continue up the stairs. Po stares after them, and then makes a decision.]
+An old red panda is playing a flute. He is surrounded by the bushes and trees that nestle between the Training Hall. From behind the bushes, stealthy dark shapes move in the foreground. He is still playing and seems oblivious. Five figures explode from the undergrowth simultaneously, diving on him. He moves like lightning, the flute now wielded like a staff. He deflects, blocks, dodges, parries, and the attackers go flying. They roll and pick themselves up, turning to face him, who is now standing—poised—ready for their next move.] <br/>
+SHIFU: Well done, students... if you were trying to disappoint me. <br/>
+[He uses his flute to point at the Five, who respectfully bow as their name is mentioned.] <br/>
+SHIFU: Tigress, you need more ferocity. Monkey, greater speed. Crane—height. Viper—subtlety. Mantis— <br/>
+ZENG: Master Shifu. <br/>
+[Shifu suddenly points the flute at a scared palace goose.] <br/>
+SHIFU: [impatiently] What?! <br/>
+ZENG: [startled] Aah! It's Master Oogway. He wants to see you. <br/>
+[Shifu looks up, concerned. He runs to the Jade Palace, which is lined with palace geese. The door bursts open. Shifu enters and comes to a halt. Candles and emerald lighting fill the room. He takes a deep breath and bows.] <br/>
+SHIFU: Master Oogway? You summoned me. [He looks up, still bowing.] Is something wrong? <br/>
+[He looks up at a tortoise shell perfectly balanced on a thin wooden staff. Master Oogway, a wise and elderly tortoise, emerges slowly from his meditative position and climbs down effortlessly.] <br/>
+OOGWAY: Why must something be wrong for me to want to see my old friend? <br/>
+SHIFU: So... nothing's wrong? <br/>
+OOGWAY: Well, I didn't say that. <br/>
+[Shifu looks up, concerned. Oogway opens his mouth... and blows out a candle. And another candle. And another. And another. Oogway opens his mouth to say something, then blows out another candle. Finally, an impatient Shifu uses his kung fu to blow them all out.] <br/>
+SHIFU: You were saying? <br/>
+OOGWAY: I have had a vision: Tai Lung will return. <br/>
+[Shifu looks stricken. Quick, impressionistic images of a large, shadowy figure (Tai Lung) flash in his mind. Shifu is rattled.] <br/>
+SHIFU: That is impossible! He is in prison! <br/>
+OOGWAY: Nothing is impossible. <br/>
+SHIFU: [He stares in horror for a second before reacting.] Zeng! <br/>
+[Zeng comes flying in, and Shifu gets in his face.] <br/>
+SHIFU: Fly to Chorh-Gom Prison and tell them to double the guards, double their weapons. Double everything! Tai Lung does not leave that prison! <br/>
+ZENG: Yes, Master Shifu! <br/>
+[The goose flies off, but then hits a column. Then he is off. Back on Oogway, as he walks away from Shifu.] <br/>
+OOGWAY: [to himself] One often meets his destiny on the road he takes to avoid it. <br/>
+SHIFU: [He rushes back to Oogway.] W-we have to do something. We can't just let him march on the Valley and take his revenge! He'll, he'll— <br/>
+OOGWAY: [He looks into the water of the Moon Pool.] Your mind is like this water, my friend. When it is agitated, it becomes difficult to see. But if you allow it to settle, the answer becomes clear. <br/>
+[Shifu and Oogway stare into the pool. Oogway settles the water with his staff, revealing the reflection of an intricately-carved dragon clutching a scroll in its mouth.] <br/>
+SHIFU: [He looks up.] The Dragon Scroll... <br/>
+OOGWAY: [Looking up with Shifu.] It is time. <br/>
+SHIFU: [Looks at Oogway.] But who? Who is worthy to be trusted with the secret to limitless power? To become... the Dragon Warrior? <br/>
+OOGWAY: [A short pause.] I don't know. [He smiles. Shifu stares at him.] <br/>
+[Back at the noodle shop, Po is serving the customers at their tables. However, he struggles to squeeze through the small gaps. He accidentally knocks into a table.] <br/>
+PIG CUSTOMER: Hey, watch it Po! <br/>
+PO: Oh, sorry. Suck it up— [sucks in stomach] <br/>
+[His belly gets stuck between two tables, and in his attempt to lift himself free, Po accidentally sticks his tail puff into a rabbit family's soup bowl, making the rabbit children cry.] <br/>
+PO: Oops, sorry! A thousand pardons... <br/> 
+[A gong sounds. Po turns, and sees a group of palace staff sticking a poster on the wall of the restaurant.] <br/>
+PO: What?! [He runs over to the poster (which features the Furious Five), reads the writing, and gets very excited.] Master Oogway's choosing the Dragon Warrior. Today! [Sets down noodle bowls.] Everyone! Everyone! Go, get to the Jade Palace! One of the Five is going to get the Dragon Scroll! <br/>
+[He begins ushering out the customers. Mr. Ping looks up from the counter.] <br/>
+PO: [Runs over to a customer trying to quickly finish their food.] We've been waiting a thousand years for this — just take the bowl! [Runs over to a rabbit counting coins.] This is the greatest day in kung fu history! Don't worry about it, just go! [He begins following the customers out of the restaurant until—] <br/>
+MR. PING: Po! Where are you going? <br/>
+[Po struggles to hide his dismay as he turns back to his father.] <br/>
+PO: To the... Jade Palace?... [Inches slightly out of door.] <br/>
+MR. PING: But you're forgetting your noodle cart! [He rolls a heavy-looking noodle cart towards Po.] The whole Valley will be there, and you'll sell noodles to all of them! <br/>
+PO: Selling noodles? [Mr. Ping nods happily.] But Dad, I was kinda thinking maybe I— <br/>
+MR. PING: [smiling] Yeah? <br/>
+PO: I was kinda thinking maybe I... <br/>
+MR. PING: [still smiling] Uh-huh? <br/>
+PO: ...could also sell the bean buns. They're-they're about to go bad. <br/>
+MR. PING: That's my boy! I told you that dream was a sign! [He walks back into the shop.] <br/>
+PO: [Looks down at the cart, disappointed.] Yeah, heh heh, glad I had it. <br/>
+[At the Palace Arena just below the Jade Palace, palace staff are preparing for the tournament while children play and the villagers stream into the arena. The camera then moves outside the entrance doors and zooms down the thousand steps leading down to the village. It suddenly stops at the bottom where Po is staring open-mouthed at the daunting task ahead of him. He closes his mouth with a gulp, and begins to ascend the stairs, though is severely hindered by the noodle cart. Villagers move past him as he slowly makes progress. Some time later, Po is still ascending the stairs, dragging his cart behind him, exhausted. He stops for a breather and flops onto his back.] <br/>
+PO: I'm... almost there... huh? [He sits up, and sees to his despair that he has only made it up seven steps.] No! Oh noooo! <br/>
+[Two pig villagers, the Shaw brothers, pass by and meet Po on the stairs.] <br/>
+K.G. SHAW: Sorry, Po. <br/>
+J.R. SHAW: We'll bring you back a souvenir. <br/>
+[They continue up the stairs. Po stares after them, and then makes a decision.] <br/>
 PO: No... I'll bring me back a souvenir! [He casts away his apron and noodle hat, and makes his way up to the palace, leaving the noodle cart behind.] 
-[Up in the arena, Shifu is overseeing the preparations when Master Oogway appears, coming down the steps.]
-SHIFU: It is an historic day — isn't it, Master Oogway? 
-OOGWAY: Yes, and one I feared I would not live to see. Are your students ready? 
-SHIFU: Yes, Master Oogway. 
-OOGWAY: Now know this, old friend. Whomever I choose will not only bring peace to the Valley, but also to you. 
-[Oogway walks off, leaving Shifu to ponder what this may mean. He quickly catches up with him as the crowd roars with excitement. A pig announcer approaches with a gong in his hoof.]
-ANNOUNCER: Let the tournament begin! 
-[The pig strikes the gong as the crowd cheers. Outside the arena, Po finally reaches the top of the stairs; out of breath, but pleased with himself. His joy is cut short when he sees the entrance doors beginning to close.]
-PO: Oh, no! [He sprints for the doors.] No no no, wait... I'm coming! Yes! [The doors slam shut as he slams into them.] Owww... [Po collapses. The tournament music starts up. Po quickly gets back up and bangs in the door.] Hey, open the door! [Pigs rapping on drums drown out Po's banging.] Let me in! 
+[Up in the arena, Shifu is overseeing the preparations when Master Oogway appears, coming down the steps.] <br/>
+SHIFU: It is an historic day — isn't it, Master Oogway? <br/>
+OOGWAY: Yes, and one I feared I would not live to see. Are your students ready? <br/>
+SHIFU: Yes, Master Oogway. <br/>
+OOGWAY: Now know this, old friend. Whomever I choose will not only bring peace to the Valley, but also to you. <br/>
+[Oogway walks off, leaving Shifu to ponder what this may mean. He quickly catches up with him as the crowd roars with excitement. A pig announcer approaches with a gong in his hoof.] <br/>
+ANNOUNCER: Let the tournament begin! <br/>
+[The pig strikes the gong as the crowd cheers. Outside the arena, Po finally reaches the top of the stairs; out of breath, but pleased with himself. His joy is cut short when he sees the entrance doors beginning to close.] <br/>
+PO: Oh, no! [He sprints for the doors.] No no no, wait... I'm coming! Yes! [The doors slam shut as he slams into them.] Owww... [Po collapses. The tournament music starts up. Po quickly gets back up and bangs in the door.] Hey, open the door! [Pigs rapping on drums drown out Po's banging.] Let me in! <br/>
 SHIFU: [Inside the arena] Citizens of the Valley of Peace! [Po runs up to a small circular window, jumps and grabs it, and struggles to pull himself up and see inside.] It is my great honor to present to you... Tigress! Viper! Crane! Monkey! Mantis! The Furious Five! 
-[Po laughs in delight as his idols leap onto the scene in a stunning display of kung fu prowess. Master Crane flaps his wings and sends a powerful gust of wind into the arena.]
-PO: Oh, it's the Furious Five— [He is cut short when the wind blows the window closed, knocking Po back onto the ground.] 
-SHIFU: Warriors prepare! 
-PO: Oh, ah! Peeky-hole! [Po spots a crack in the entrance doors and peeks through.] 
-SHIFU: Ready for battle! 
-[Po sees Master Crane getting into position, facing a deadly looking machine.]
-PO: Yeah! Woo! The Thousand Tongues of Fire! [He laughs in anticipation.] 
-PIG FAN: Whoa, look at that! [Steps in front of and blocks Po's view.] 
-PO: Hey, get out of the way! 
+[Po laughs in delight as his idols leap onto the scene in a stunning display of kung fu prowess. Master Crane flaps his wings and sends a powerful gust of wind into the arena.] <br/>
+PO: Oh, it's the Furious Five— [He is cut short when the wind blows the window closed, knocking Po back onto the ground.] <br/>
+SHIFU: Warriors prepare! <br/>
+PO: Oh, ah! Peeky-hole! [Po spots a crack in the entrance doors and peeks through.] <br/>
+SHIFU: Ready for battle! <br/>
+[Po sees Master Crane getting into position, facing a deadly looking machine.] <br/>
+PO: Yeah! Woo! The Thousand Tongues of Fire! [He laughs in anticipation.] <br/>
+PIG FAN: Whoa, look at that! [Steps in front of and blocks Po's view.] <br/>
+PO: Hey, get out of the way! <br/>
 [Po hears a firing sound, looks up, and sees Crane being surrounded by fireworks. He keeps backing up so he can see the spectacle, but backs up too much and tumbles down the stairs again. By the time he gets back up, Crane has defeated the fireworks and disappeared from view. Po collapses on the ground in disappointment, but then gets back up with determination.
-While the crowd enjoys the tournament inside the arena, Po makes various attempts to gain access; first, he punches the doors, which causes him pain. Second, he attempts to pole-vault over the wall, but his weight bends the pole and he gets flung into the wall, cracking it. Third, he bends a tree to the ground and ties it with the plan to catapult himself into the arena. However, his weight keeps the tree bent when he cuts the rope. When he gets off, the tree springs up, whacking his nose, then springs back once to strike him on the head. In the next shot, Po is sitting at the top of the stairs, his back to the arena, apparently having given up.]
-SHIFU: And finally... Master Tigress! 
-[Hearing this, Po once again gets up and starts looking for another plan. He sets out pulling back another, larger tree.]
-SHIFU: Believe me citizens, you have not seen anything yet! 
-PO: I KNOW!!! 
-SHIFU: Master Tigress! Face Iron Ox and his Blades of Death! 
+While the crowd enjoys the tournament inside the arena, Po makes various attempts to gain access; first, he punches the doors, which causes him pain. Second, he attempts to pole-vault over the wall, but his weight bends the pole and he gets flung into the wall, cracking it. Third, he bends a tree to the ground and ties it with the plan to catapult himself into the arena. However, his weight keeps the tree bent when he cuts the rope. When he gets off, the tree springs up, whacking his nose, then springs back once to strike him on the head. In the next shot, Po is sitting at the top of the stairs, his back to the arena, apparently having given up.] <br/>
+SHIFU: And finally... Master Tigress! <br/>
+[Hearing this, Po once again gets up and starts looking for another plan. He sets out pulling back another, larger tree.] <br/>
+SHIFU: Believe me citizens, you have not seen anything yet! <br/>
+PO: I KNOW!!! <br/>
+SHIFU: Master Tigress! Face Iron Ox and his Blades of Death! <br/>
 [Inside the arena, Tigress prepares to face her daunting opponent. Po suddenly springs up above the arena, catapulted by the tree. Po gets a good glimpse of his favorite of the Five, but then bounces of the rooftops and crashes into a fireworks cart, just outside the arena.
-Back inside the arena, Oogway suddenly closes his eyes and raises his palm. The crowd hushes and looks up at him.]
-OOGWAY: I sense the Dragon Warrior is among us. 
-[Shifu gives a nod to the Five. Monkey, Crane, Viper and Mantis join Tigress in the middle of the arena and they quickly position themselves into a line facing the older masters.]
-SHIFU: Citizens of the Valley of Peace! Master Oogway will now choose... the Dragon Warrior! 
-[The crowd cheers, but Po is alarmed as he hears this.]
-PO: Huh? Oh no! No no no, wait! [He suddenly sees the fireworks surrounding him and gets an idea.] Yeah... 
-[Inside the arena, the pigs are drumming as Oogway begins to slowly approach the Five, his palm swaying in the air as he prepares to make a decision. Outside, Po ties many small fireworks to a chair, sits on it, and lights the fuse.]
-MR. PING: Po!? [He appears at the top of the stairs, holding Po's apron. He sees Po sitting on the fireworks chair.] What are you doing?! [He rushes forward and attempts to blow out the fuse.] 
-PO: What does it look like I'm doing?! No, stop, stop! I'm going to see the Dragon Warrior! 
-[Oogway is now closer to the Five.]
-MR. PING: But I don't understand. You finally had the noodle dream! 
-[This close to seeing the Dragon Warrior, Po is unable to maintain the façade any longer.]
-PO: I lied. I don't dream about noodles, Dad! 
-[The goose's eyes widen. Po looks down and sees that the fuse is almost out. He braces himself and yells to the heavens.]
-PO: I LOVE KUNG FUUUUUUUUUUUUUUUUUUU!!... 
-[When Po opens his eyes, he finds himself still on the ground: the fuse was a dud. He loses balance on the little chair and falls flat on his face (the chair still stuck on his rear), then begins to sniffle, defeated at last. Though sympathetic, Mr. Ping holds out Po's apron.]
-MR. PING: Oh, come on, son. Let's get back to work. 
-PO: [He sighs.] Okay. 
-[Po is sadly getting up when all of a sudden, the fireworks on the chair go off, propelling Po into the arena wall.]
+Back inside the arena, Oogway suddenly closes his eyes and raises his palm. The crowd hushes and looks up at him.] <br/>
+OOGWAY: I sense the Dragon Warrior is among us. <br/>
+[Shifu gives a nod to the Five. Monkey, Crane, Viper and Mantis join Tigress in the middle of the arena and they quickly position themselves into a line facing the older masters.] <br/>
+SHIFU: Citizens of the Valley of Peace! Master Oogway will now choose... the Dragon Warrior! <br/>
+[The crowd cheers, but Po is alarmed as he hears this.] <br/>
+PO: Huh? Oh no! No no no, wait! [He suddenly sees the fireworks surrounding him and gets an idea.] Yeah... <br/>
+[Inside the arena, the pigs are drumming as Oogway begins to slowly approach the Five, his palm swaying in the air as he prepares to make a decision. Outside, Po ties many small fireworks to a chair, sits on it, and lights the fuse.] <br/>
+MR. PING: Po!? [He appears at the top of the stairs, holding Po's apron. He sees Po sitting on the fireworks chair.] What are you doing?! [He rushes forward and attempts to blow out the fuse.] <br/>
+PO: What does it look like I'm doing?! No, stop, stop! I'm going to see the Dragon Warrior! <br/>
+[Oogway is now closer to the Five.] <br/>
+MR. PING: But I don't understand. You finally had the noodle dream! <br/>
+[This close to seeing the Dragon Warrior, Po is unable to maintain the façade any longer.] <br/>
+PO: I lied. I don't dream about noodles, Dad! <br/>
+[The goose's eyes widen. Po looks down and sees that the fuse is almost out. He braces himself and yells to the heavens.] <br/>
+PO: I LOVE KUNG FUUUUUUUUUUUUUUUUUUU!!... <br/>
+[When Po opens his eyes, he finds himself still on the ground: the fuse was a dud. He loses balance on the little chair and falls flat on his face (the chair still stuck on his rear), then begins to sniffle, defeated at last. Though sympathetic, Mr. Ping holds out Po's apron.] <br/>
+MR. PING: Oh, come on, son. Let's get back to work. <br/>
+PO: [He sighs.] Okay. <br/>
+[Po is sadly getting up when all of a sudden, the fireworks on the chair go off, propelling Po into the arena wall.] <br/>
 MR. PING: Po! [Propelled by the fireworks, Po slides along the wall on his face, wailing.] Po, come back! 
-[Suddenly the chair changes direction and Po soars screaming into the sky directly above the arena in a display of fireworks. Below, the crowd looks up and "Oooh" and "Aaah" at the show. As Po eventually stops screaming and the fireworks die out, the burned chair disintegrates beneath him.]
+[Suddenly the chair changes direction and Po soars screaming into the sky directly above the arena in a display of fireworks. Below, the crowd looks up and "Oooh" and "Aaah" at the show. As Po eventually stops screaming and the fireworks die out, the burned chair disintegrates beneath him.] <br/>
 PO: Uh oh. [He plummets back to earth and lands in the middle of the arena. Everything goes black upon impact.] 
-[After some inter-determinate time, Po groggily wakes up. Everything is blurry in his vision.]
+[After some inter-determinate time, Po groggily wakes up. Everything is blurry in his vision.] <br/>
 PO: Ugh... [He looks up, and the first thing he sees is Masters Mantis and Viper staring down at him.] What's goin' on...? [He turns his head and sees Masters Monkey, Crane and Tigress, also staring at him.] Where, uh...? [What he sees next is a quivering finger pointing straight at his face.] What are you pointing...? 
-[He shakes his head, and his vision clears. He finds himself lying right in front of Oogway, the one pointing at him. He realizes with a jolt that he has landed right between the old master and the Furious Five.]
-PO: Oh! Okay, sorry! I just wanted to see who the Dragon Warrior was. 
-OOGWAY: How interesting. [He still points at Po, intrigued by this unexpected occurrence. Standing right behind Po, Tigress steps forward, confused.] 
-TIGRESS: Master, are you pointing at... me? 
-OOGWAY: Him. 
-PO: Who?... [Po attempts to move out of the way, but Oogway's finger follows him. Tigress's eyes widen.] 
-OOGWAY: You. 
-PO: Me? 
-[Oogway lifts up Po's arm with his staff for all to see.]
-OOGWAY: The universe has brought us the Dragon Warrior! 
-PO: What? 
-FURIOUS FIVE: What?! 
-SHIFU: What!? 
-MR. PING: [Entering though the doors.] WHAT!? 
-[The announcer strikes the gong. Shifu snatches away the mallet, but is too late as the crowd cheers wildly and confetti rains down. Po stares around him, speechless. A group of palace geese rapidly descend the palace stairs with a palanquin.]
+[He shakes his head, and his vision clears. He finds himself lying right in front of Oogway, the one pointing at him. He realizes with a jolt that he has landed right between the old master and the Furious Five.] <br/>
+PO: Oh! Okay, sorry! I just wanted to see who the Dragon Warrior was. <br/>
+OOGWAY: How interesting. [He still points at Po, intrigued by this unexpected occurrence. Standing right behind Po, Tigress steps forward, confused.] <br/>
+TIGRESS: Master, are you pointing at... me? <br/>
+OOGWAY: Him. <br/>
+PO: Who?... [Po attempts to move out of the way, but Oogway's finger follows him. Tigress's eyes widen.] <br/>
+OOGWAY: You. <br/>
+PO: Me? <br/>
+[Oogway lifts up Po's arm with his staff for all to see.] <br/>
+OOGWAY: The universe has brought us the Dragon Warrior! <br/>
+PO: What? <br/>
+FURIOUS FIVE: What?! <br/>
+SHIFU: What!? <br/>
+MR. PING: [Entering though the doors.] WHAT!? <br/>
+[The announcer strikes the gong. Shifu snatches away the mallet, but is too late as the crowd cheers wildly and confetti rains down. Po stares around him, speechless. A group of palace geese rapidly descend the palace stairs with a palanquin.] <br/>
 SHIFU: Stop! Wait! Who told you to- 
-[The geese move straight past him, down the remaining steps, and stop right in front of Po. Shifu races down after them as the panda is hoisted up on the palanquin. The geese struggle to lift the palanquin and make their way back towards the stairs. While the Five are bowed behind them, Shifu finally reaches Oogway.]
-SHIFU: Master, Master wait! That flabby panda can't possibly be the answer to... our problem! You were about to point at Tigress and that thing fell in front of her! That was just an accident! 
-OOGWAY: There are no accidents. 
-[CRUNCH! Shifu, Oogway and the Five look up, startled. Po has broken through the palanquin and is now stuck in the newly-made hole. Shifu looks at Oogway, who simply smiles. Palace pigs surround Po and lift the palanquin with relative ease, and make their way up the stairs. Shifu stares after them in disbelief, as the Five slowly approach him.]
-TIGRESS: Forgive us, Master. [She kneels forward and bows. The others follow suit.] We have failed you. 
-[Shifu holds up a paw to stop her.]
-SHIFU: No. If the panda has not quit by morning, then I will have failed you. 
+[The geese move straight past him, down the remaining steps, and stop right in front of Po. Shifu races down after them as the panda is hoisted up on the palanquin. The geese struggle to lift the palanquin and make their way back towards the stairs. While the Five are bowed behind them, Shifu finally reaches Oogway.] <br/>
+SHIFU: Master, Master wait! That flabby panda can't possibly be the answer to... our problem! You were about to point at Tigress and that thing fell in front of her! That was just an accident! <br/>
+OOGWAY: There are no accidents. <br/>
+[CRUNCH! Shifu, Oogway and the Five look up, startled. Po has broken through the palanquin and is now stuck in the newly-made hole. Shifu looks at Oogway, who simply smiles. Palace pigs surround Po and lift the palanquin with relative ease, and make their way up the stairs. Shifu stares after them in disbelief, as the Five slowly approach him.] <br/>
+TIGRESS: Forgive us, Master. [She kneels forward and bows. The others follow suit.] We have failed you. <br/>
+[Shifu holds up a paw to stop her.] <br/>
+SHIFU: No. If the panda has not quit by morning, then I will have failed you. <br/>
 [Around them, the crowd continues to cheers and the confetti rains down from the sky.
-Meanwhile, far away in the snowy mountains of Mongolia, Zeng the palace goose is approaching the fearsome Chor-Gom Prison. A rhino guard watches as Zeng flies past him, tired from the journey. With a cry, he crash lands on the ground outside the entrance doors, clutching a scroll. In an instant, two rhino guards thrust their spears in his face.]
-ZENG: Wait, wait, wait wait! I bring a message! [The guards keep their spears pointed.] From Master Shifu! [The rhinos relax slightly. The enormous entrance doors are opened. Minutes later, Commander Vachir, the warden, is standing in front of the frightened Zeng, reading the scroll. What he reads enrages him.] 
-VACHIR: WHAT?! "Double the guard? Extra precautions? Your prison may not be adequate?" [He slams the scroll shut and glares down at the quaking Zeng. The guards behind the goose grip their weapons, equally outraged, and stare daggers at him.] You doubt my prison's security? 
-ZENG: Absolutely not. Shifu does. I'm just the messenger. [He gulps, intimidated.] 
+Meanwhile, far away in the snowy mountains of Mongolia, Zeng the palace goose is approaching the fearsome Chor-Gom Prison. A rhino guard watches as Zeng flies past him, tired from the journey. With a cry, he crash lands on the ground outside the entrance doors, clutching a scroll. In an instant, two rhino guards thrust their spears in his face.] <br/>
+ZENG: Wait, wait, wait wait! I bring a message! [The guards keep their spears pointed.] From Master Shifu! [The rhinos relax slightly. The enormous entrance doors are opened. Minutes later, Commander Vachir, the warden, is standing in front of the frightened Zeng, reading the scroll. What he reads enrages him.] <br/>
+VACHIR: WHAT?! "Double the guard? Extra precautions? Your prison may not be adequate?" [He slams the scroll shut and glares down at the quaking Zeng. The guards behind the goose grip their weapons, equally outraged, and stare daggers at him.] You doubt my prison's security? <br/>
+ZENG: Absolutely not. Shifu does. I'm just the messenger. [He gulps, intimidated.] <br/>
 VACHIR: I'll give you a message for your Master Shifu. [He proceeds to lead Zeng along the bridge across from the doors.] Escape from Chorh-Gom Prison is impossible! 
-[Zeng looks in awe around the cavernous prison. He then looks over the side of the bridge into the dark and seemingly-bottomless abyss. Vachir suddenly slaps Zeng on the back, startling him and knocking a feather from his body, which floats down from the bridge.]
-VACHIR: [Laughs.] Impressive, isn't it? 
-ZENG: [trembling] Oh yes, it's very impressive. It's very impressive! 
-[Vachir leads him deeper into the prison, while gloating about the security.]
-VACHIR: One way in, one way out, one thousand guards, and one prisoner. 
-ZENG: Yes, except that prisoner is Tai Lung... 
-[The warden and the palace goose step into an elevator.]
-VACHIR: [to guards] Take us down. 
-[The guards obey, and the elevator descends in the darkness towards the very bottom area of the prison. Vachir shakes the elevator to scare Zeng, and laughs at his frightened reaction. Eventually they reach the bottom. Zeng is led towards a set of heavily-armored doors, which open one after the other.]
-ZENG: Oh my... 
-[The final door falls forward, creating a bridge towards a circular stone island in the middle of the abyss. In the middle of the island is a figure shrouded in darkness.]
-VACHIR: Behold, Tai Lung. 
-[Zeng's eyes widen.]
-ZENG: I'll, um... I'm just gonna wait right here. 
-VACHIR: [Laughs.] It's nothing to worry about. It's perfectly safe. [He pushes Zeng across the bridge, and follows after.] Crossbows! At the ready! 
-ZENG: Crossbows?! 
-[In sentry towers around the walls of the prison, guard train enormous crossbows on the figure on the island as Vachir and Zeng approach. Tai Lung, once a mighty kung fu warrior, is now weighed down with chains attached to enormous rocks hanging over the sides of the island, immobilized by a special stone tortoise shell on his back.]
-VACHIR: Hey, tough guy! Did you hear? Oogway's finally going to give someone the Dragon Scroll and it's not going to be you! 
-ZENG: What are you doing? Don't get him mad! 
-VACHIR: What's he gonna do about it? I've got him completely immobilized. [He stamps on Tai Lung's tail, which crunches on impact. Zeng leaps back with a gasp, but Tai Lung makes no movement. Vachir laughs.] Awww, did I step on the witty kitty's tail? Awww... 
-ZENG: I'm good! I've seen enough! I'm gonna tell Shifu he's got nothing to worry about. 
-VACHIR: No he doesn't. [They walk back across the bridge.] 
-ZENG: Okay I'll tell him. Can we please go now?... 
-[Zeng and Vachir walk out of view. Meanwhile, Zeng's feather floats down and rests right in front of Tai Lung... and his eyes open. He whips out his tail and snatches the feather.
-[Back at the Jade Palace, the crowd continues to cheer for the Dragon Warrior as the palace pigs bring Po (still in the ruined palanquin) to the top of the palace stairs and inside the main building. They drop Po to the ground and quickly exit.]
-PO: Wait a second! 
-[The doors close, leaving Po along in the room.]
-PO: Hello? Uh... I think there's been a slight mistake. Everybody seems to think that I'm, uh... 
-[He slowly turns around and realizes where he is. He moans in pure amazement.]
-PO: The Sacred Hall of Warriors! No way! Look at this place! 
-[Po spots a rhino-suit of armor and runs up to it.]
+[Zeng looks in awe around the cavernous prison. He then looks over the side of the bridge into the dark and seemingly-bottomless abyss. Vachir suddenly slaps Zeng on the back, startling him and knocking a feather from his body, which floats down from the bridge.] <br/>
+VACHIR: [Laughs.] Impressive, isn't it? <br/>
+ZENG: [trembling] Oh yes, it's very impressive. It's very impressive! <br/>
+[Vachir leads him deeper into the prison, while gloating about the security.] <br/>
+VACHIR: One way in, one way out, one thousand guards, and one prisoner. <br/>
+ZENG: Yes, except that prisoner is Tai Lung... <br/>
+[The warden and the palace goose step into an elevator.] <br/>
+VACHIR: [to guards] Take us down. <br/>
+[The guards obey, and the elevator descends in the darkness towards the very bottom area of the prison. Vachir shakes the elevator to scare Zeng, and laughs at his frightened reaction. Eventually they reach the bottom. Zeng is led towards a set of heavily-armored doors, which open one after the other.] <br/>
+ZENG: Oh my...  <br/>
+[The final door falls forward, creating a bridge towards a circular stone island in the middle of the abyss. In the middle of the island is a figure shrouded in darkness.] <br/>
+VACHIR: Behold, Tai Lung. <br/>
+[Zeng's eyes widen.] <br/>
+ZENG: I'll, um... I'm just gonna wait right here. <br/>
+VACHIR: [Laughs.] It's nothing to worry about. It's perfectly safe. [He pushes Zeng across the bridge, and follows after.] Crossbows! At the ready! <br/>
+ZENG: Crossbows?! <br/>
+[In sentry towers around the walls of the prison, guard train enormous crossbows on the figure on the island as Vachir and Zeng approach. Tai Lung, once a mighty kung fu warrior, is now weighed down with chains attached to enormous rocks hanging over the sides of the island, immobilized by a special stone tortoise shell on his back.] <br/>
+VACHIR: Hey, tough guy! Did you hear? Oogway's finally going to give someone the Dragon Scroll and it's not going to be you! <br/>
+ZENG: What are you doing? Don't get him mad! <br/>
+VACHIR: What's he gonna do about it? I've got him completely immobilized. [He stamps on Tai Lung's tail, which crunches on impact. Zeng leaps back with a gasp, but Tai Lung makes no movement. Vachir laughs.] Awww, did I step on the witty kitty's tail? Awww... <br/>
+ZENG: I'm good! I've seen enough! I'm gonna tell Shifu he's got nothing to worry about. <br/>
+VACHIR: No he doesn't. [They walk back across the bridge.] <br/>
+ZENG: Okay I'll tell him. Can we please go now?... <br/>
+[Zeng and Vachir walk out of view. Meanwhile, Zeng's feather floats down and rests right in front of Tai Lung... and his eyes open. He whips out his tail and snatches the feather.] <br/>
+[Back at the Jade Palace, the crowd continues to cheer for the Dragon Warrior as the palace pigs bring Po (still in the ruined palanquin) to the top of the palace stairs and inside the main building. They drop Po to the ground and quickly exit.] <br/>
+PO: Wait a second! <br/>
+[The doors close, leaving Po along in the room.] <br/>
+PO: Hello? Uh... I think there's been a slight mistake. Everybody seems to think that I'm, uh... <br/>
+[He slowly turns around and realizes where he is. He moans in pure amazement.] <br/>
+PO: The Sacred Hall of Warriors! No way! Look at this place! <br/>
+[Po spots a rhino-suit of armor and runs up to it.] <br/>
 PO: Master Flying Rhino's armor. With authentic battle damage! [He turns and sees another famous artifact — the green sword previously seen in Po's dream. He runs up to it.] Whoa... The Sword of Heroes! Said to be so sharp you can cut yourself just by looking— OW! [He shakes his finger and sucks it. He then runs up to an apparently empty display.] The Invisible Trident of Destiny! [He looks up at a painting and gasps.] I've only seen paintings of that painting... 
-[Po joyfully examines other kung fu artifacts... and then spots an urn which appears to be glowing from the inside. He gasps.]
-PO: [loudly] Nooo! Ohhhh! [He runs up to it.] The Legendary Urn of Whispering Warriors... said to contain the souls of the entire Tenshu Army! [He hesitates before coming close to the urn and whispering into it.] Hello? 
-SHIFU: [From out of view] Have you finished sight-seeing? 
-PO: [gasp] Sorry! I should have come to see you first! 
-SHIFU: My patience is wearing thin. 
-PO: Oh. Well, I mean, it's not like you were going anywhere. 
-SHIFU: Do turn around. 
-PO: Sure. [He turns and sees Shifu.] Hey, how's it going? [Turns back to the urn.] Now how do you get get five hund— Master Shifu! 
-[Startled, he accidentally knocks over the urn, and there is a ghostly wail as it shatters on the ground. Po, mortified, looks up at Shifu.]
-PO: Someone... broke that. [Shifu stares at him in silence. Po attempts to pick up the pieces.] But I'm going to fix it. Do you have some glue?... [He knocks the urn's display table, and it topples on his head. Shifu continues to stare.] Ow! Ooh. Splinter. 
-SHIFU: So you're the legendary Dragon Warrior, hmm? 
-PO: Uh... I guess so? 
-SHIFU: Wrong! [Po stands up, alarmed.] You are not the Dragon Warrior. You will never be the Dragon Warrior until you have learned the secret of the Dragon Scroll. [With his staff, he points up at the ceiling at the scroll.] 
-PO: Whoa... So how does this work? You have a ladder or trampoline or... 
-[Shifu chuckles coldly.]
-SHIFU: You think it's that easy? That I'm just going to hand you the secret to limitless power? 
-PO: No, I- 
-[Shifu approaches Po.]
-SHIFU: One must first master the highest level of kung fu. And that is clearly impossible if that one is someone like you. 
-PO: Someone like me? 
-SHIFU: Yes. Look at you! This fat butt. [He hits Po's butt with his staff, making Po cry out.] Flabby arms! [He hits Po's arm.] 
-PO: Ouch! Those are sensitive in the flabby parts. 
-SHIFU: And this ridiculous belly! [Jabs Po's stomach.] 
-PO: Hey... 
-SHIFU: And utter disregard for personal hygiene. 
-PO: Now wait a minute. That's a little uncalled for— 
-SHIFU: Don't stand so close, I can smell your breath. 
-PO: [Points at Shifu.] Listen, Oogway said that I was the— 
-[Suddenly, Shifu grabs Po's outstretched finger and lifts his pinky. Po gasps in horror.]
-PO: The Wuxi Finger Hold! Not the Wuxi Finger Hold! 
-SHIFU: [slyly] Ohhh, you know this hold? 
-PO: [slurred together] Developed by Master Wuxi in the third dynasty. Yes! 
-SHIFU: Oh, then you must know what happens when I flex my pinky... 
-PO: [gasp] No no no! 
-SHIFU: You know the hardest part of this? The hardest part... is cleaning up afterwards. [chuckles] 
-PO: Okay! Okay, take it easy! 
-SHIFU: Now listen closely, panda. Oogway may have picked you, but when I'm through with you, I promise you: You're going to wish he hadn't! Are we clear? 
-PO: Yeah. We're clear! We're clear! We are so clear. 
-SHIFU: Good. [chuckles] I can't wait to get started. 
-[Shifu leads Po into the Training Hall, where the panda is struck speechless as he sees the Furious Five combating the various deadly stages of the course. Crane is deflecting arrows while balancing on half of a jade-colored turtle shell. Then Tigress leaps onto the shell and briefly spars with him. Meanwhile, Mantis weaves his way through an army of wooden crocodile warriors. Viper evades fire spurts on the Field of Fiery Death. Monkey swings across the seven-talon rings. Tigress dodges the swinging spiked clubs on spinning serpent logs, then smashes one with her bare fists. A piece of the club strikes Po on the head.]
-SHIFU: Let's begin. 
-PO: Wait wait wait! What? [He stares at the fearsome course in front of him.] Now? 
-SHIFU: Yes, now. Unless you think that the great Oogway was wrong, and you are not the Dragon Warrior?... 
-PO: Oh, okay. Well... I don't know if I can do all of those moves... 
-SHIFU: Well, if we don't try, we'll never know, will we? [He begins walking along the side of the course. Po follows.] 
-PO: Uh, yeah. It's just— maybe we can find something more suited to my level... 
-SHIFU: And what level is that? 
-PO: Well, ya know... I'm not a master, but uh, let's just start at zero. Level Zero. 
-SHIFU: [Laughs.] There is no such thing as Level Zero. 
-PO: Hey! Maybe I can start with that! 
-[Po points and runs over to a friendly-looking bandit dummy.]
-SHIFU: That? We use that for training children. And for propping the door open when it's hot. But if you insist... 
-[At that moment, the Five gather around Po.]
-PO: Whoa. The Furious Five. You're so much bigger than your action figures — except for you, Mantis. You're about the same. 
-[Mantis's antennae twitches as he glares. Po looks uncomfortable.]
-SHIFU: Go ahead, panda. Show us what you can do. 
-[Po hesitates, seeing the Five watching him.]
-PO: Um, are they going to watch. Or should I just wait until they get back to work or something?... 
-SHIFU: Hit it. 
-PO: [stalling] Okay. I mean I just ate, so I'm still digesting. So my kung fu might not be as good as later on... 
-SHIFU: Just hit it! 
+[Po joyfully examines other kung fu artifacts... and then spots an urn which appears to be glowing from the inside. He gasps.] <br/>
+PO: [loudly] Nooo! Ohhhh! [He runs up to it.] The Legendary Urn of Whispering Warriors... said to contain the souls of the entire Tenshu Army! [He hesitates before coming close to the urn and whispering into it.] Hello? <br/>
+SHIFU: [From out of view] Have you finished sight-seeing? <br/>
+PO: [gasp] Sorry! I should have come to see you first! <br/>
+SHIFU: My patience is wearing thin. <br/>
+PO: Oh. Well, I mean, it's not like you were going anywhere. <br/>
+SHIFU: Do turn around. <br/>
+PO: Sure. [He turns and sees Shifu.] Hey, how's it going? [Turns back to the urn.] Now how do you get get five hund— Master Shifu! <br/>
+[Startled, he accidentally knocks over the urn, and there is a ghostly wail as it shatters on the ground. Po, mortified, looks up at Shifu.] <br/>
+PO: Someone... broke that. [Shifu stares at him in silence. Po attempts to pick up the pieces.] But I'm going to fix it. Do you have some glue?... [He knocks the urn's display table, and it topples on his head. Shifu continues to stare.] Ow! Ooh. Splinter. <br/>
+SHIFU: So you're the legendary Dragon Warrior, hmm? <br/>
+PO: Uh... I guess so? <br/>
+SHIFU: Wrong! [Po stands up, alarmed.] You are not the Dragon Warrior. You will never be the Dragon Warrior until you have learned the secret of the Dragon Scroll. [With his staff, he points up at the ceiling at the scroll.] <br/>
+PO: Whoa... So how does this work? You have a ladder or trampoline or... <br/>
+[Shifu chuckles coldly.] <br/>
+SHIFU: You think it's that easy? That I'm just going to hand you the secret to limitless power? <br/>
+PO: No, I- <br/>
+[Shifu approaches Po.] <br/>
+SHIFU: One must first master the highest level of kung fu. And that is clearly impossible if that one is someone like you. <br/>
+PO: Someone like me? <br/>
+SHIFU: Yes. Look at you! This fat butt. [He hits Po's butt with his staff, making Po cry out.] Flabby arms! [He hits Po's arm.] <br/>
+PO: Ouch! Those are sensitive in the flabby parts. <br/>
+SHIFU: And this ridiculous belly! [Jabs Po's stomach.] <br/>
+PO: Hey... <br/>
+SHIFU: And utter disregard for personal hygiene. <br/>
+PO: Now wait a minute. That's a little uncalled for— <br/>
+SHIFU: Don't stand so close, I can smell your breath. <br/>
+PO: [Points at Shifu.] Listen, Oogway said that I was the— <br/>
+[Suddenly, Shifu grabs Po's outstretched finger and lifts his pinky. Po gasps in horror.] <br/>
+PO: The Wuxi Finger Hold! Not the Wuxi Finger Hold! <br/>
+SHIFU: [slyly] Ohhh, you know this hold? <br/>
+PO: [slurred together] Developed by Master Wuxi in the third dynasty. Yes! <br/>
+SHIFU: Oh, then you must know what happens when I flex my pinky... <br/>
+PO: [gasp] No no no! <br/>
+SHIFU: You know the hardest part of this? The hardest part... is cleaning up afterwards. [chuckles] <br/>
+PO: Okay! Okay, take it easy! <br/>
+SHIFU: Now listen closely, panda. Oogway may have picked you, but when I'm through with you, I promise you: You're going to wish he hadn't! Are we clear? <br/>
+PO: Yeah. We're clear! We're clear! We are so clear. <br/>
+SHIFU: Good. [chuckles] I can't wait to get started. <br/>
+SHIFU: Good. [chuckles] I can't wait to get started. <br/>
+[Shifu leads Po into the Training Hall, where the panda is struck speechless as he sees the Furious Five combating the various deadly stages of the course. Crane is deflecting arrows while balancing on half of a jade-colored turtle shell. Then Tigress leaps onto the shell and briefly spars with him. Meanwhile, Mantis weaves his way through an army of wooden crocodile warriors. Viper evades fire spurts on the Field of Fiery Death. Monkey swings across the seven-talon rings. Tigress dodges the swinging spiked clubs on spinning serpent logs, then smashes one with her bare fists. A piece of the club strikes Po on the head.] <br/>
+SHIFU: Let's begin. <br/>
+PO: Wait wait wait! What? [He stares at the fearsome course in front of him.] Now? <br/>
+SHIFU: Yes, now. Unless you think that the great Oogway was wrong, and you are not the Dragon Warrior?... <br/>
+PO: Oh, okay. Well... I don't know if I can do all of those moves... <br/>
+SHIFU: Well, if we don't try, we'll never know, will we? [He begins walking along the side of the course. Po follows.] <br/>
+PO: Uh, yeah. It's just— maybe we can find something more suited to my level... <br/>
+SHIFU: And what level is that? <br/>
+PO: Well, ya know... I'm not a master, but uh, let's just start at zero. Level Zero. <br/>
+SHIFU: [Laughs.] There is no such thing as Level Zero. <br/>
+PO: Hey! Maybe I can start with that! <br/>
+[Po points and runs over to a friendly-looking bandit dummy.] <br/>
+SHIFU: That? We use that for training children. And for propping the door open when it's hot. But if you insist... <br/>
+[At that moment, the Five gather around Po.] <br/>
+PO: Whoa. The Furious Five. You're so much bigger than your action figures — except for you, Mantis. You're about the same. <br/>
+[Mantis's antennae twitches as he glares. Po looks uncomfortable.] <br/>
+SHIFU: Go ahead, panda. Show us what you can do. <br/>
+[Po hesitates, seeing the Five watching him.] <br/>
+PO: Um, are they going to watch. Or should I just wait until they get back to work or something?... <br/>
+SHIFU: Hit it. <br/>
+PO: [stalling] Okay. I mean I just ate, so I'm still digesting. So my kung fu might not be as good as later on... <br/>
+SHIFU: Just hit it! <br/>
 PO: [Pauses.] Alright... [He turns to the dummy.] Whatcha got? You got nothin' 'cause I got it right here. You picking on my friends? [He begins dancing on the spot.] Get ready to feel the thunder. I'm comin' at him with the crazy feet. Whatcha gonna do about my crazy feet? I'm a blur. I'm a blur. You never seen bear style, you only seen praying Mantis! OR... I could come at you Monkey style. [Makes monkey sounds. Monkey raises his eyebrows.] OR... I'm comin' at ya snikity-snake... 
 [Shifu and the Five stare at Po as he faces the dummy, and Shifu loses his patience.]
 SHIFU: Would you hit it!? 
