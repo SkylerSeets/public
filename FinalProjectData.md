@@ -1,5 +1,4 @@
-Anime API (from AniList): <br/>
-https://github.com/AniList/ApiV2-GraphQL-Docs <br/> <br/>
+Coronavirus Data from The COVID Tracking Project:
+https://covidtracking.com/data/api
 
-My MAL List (will probably have to migrate from MAL to AniList): <br/>
-https://myanimelist.net/animelist/MrPitohui
+This dataset contains the date starting from January 22nd, 2020 and is current. It includes features such as: states, positive cases, negative cases, currently currently, in ICU currently, on ventilator currently, recovered, and deaths.
