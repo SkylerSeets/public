@@ -42,10 +42,12 @@ You can see that it has some features on the y axis and the contribution to pred
 Unfortunately, I am unable to make any conclusions since I was not able to get any results. However, I believe that if I had more time, I would be able to fix this problem and actually get output that I could compare to the violin plot referenced above. <br/> <br/>
 
 *__References__*: <br/>
-1.	https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html <br/>
-2.	https://xgboost.readthedocs.io/en/latest/tutorials/model.html <br/>
-3.	http://compneurosci.com/wiki/images/c/c0/Linear_Classification.pdf <br/>
+1.	“Cases in the U.S.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html. <br/>
+2.	“Introduction to Boosted Trees.” Introduction to Boosted Trees - Xgboost 1.2.0-SNAPSHOT Documentation, xgboost.readthedocs.io/en/latest/tutorials/model.html. <br/>
+3.	http://compneurosci.com/wiki/images/c/c0/Linear_Classification.pdf
+
 
 *__Sources__*: <br/>
-1.	https://www.tensorflow.org/tutorials/estimator/boosted_trees <br/>
-2.	https://www.tensorflow.org/tutorials/estimator/boosted_trees_model_understanding 
+1.	“Boosted Trees Using Estimators: TensorFlow Core.” TensorFlow, www.tensorflow.org/tutorials/estimator/boosted_trees. <br/>
+2.	“Gradient Boosted Trees: Model Understanding: TensorFlow Core.” TensorFlow, www.tensorflow.org/tutorials/estimator/boosted_trees_model_understanding.
+
