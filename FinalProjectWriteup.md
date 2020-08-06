@@ -26,6 +26,7 @@ I used two classifiers: the boosted tree and linear classifier. The boosted tree
 
 ![Boosted Trees Model](https://raw.githubusercontent.com/ashuang2013/public/master/FinalBoostedTree.jpg) <br/>
 ![Linear Model](https://raw.githubusercontent.com/ashuang2013/public/master/FinalLinearEstimator.jpg) <br/>
+From Source 1 <br/>
 
 I used the same specifications as the Titanic dataset since it was so similar to what I was applying the coronavirus data on. For the boosted trees classifier, since my dataset is small, only 196 points, I can just give my model the entire batch. I also just set the max_steps, which are like the epochs, to 100 since it is a good number when training the model normally. For the linear classifier, I just gave it my data since nothing really needed tuning. I trained it for 100 steps. <br/> <br/>
 
@@ -33,6 +34,7 @@ I used the same specifications as the Titanic dataset since it was so similar to
 Unfortunately, I was not able to get results. As predicted, I was not able to preprocess the data so that it could be accepted to the data. For the error, I got a invalid argument error due to by labels not being labeled correctly. As such, I will share some results from my source and explain what I was hoping to get from my models. Similarly, I wanted to create a violin graph similar to the one pictured here: <br/>
 
 ![Violin Plot](https://raw.githubusercontent.com/ashuang2013/public/master/FinalViolinPlot.jpg) <br/>
+From Source 2 <br/>
 
 You can see that it has some features on the y axis and the contribution to predicted probability. In this project, I wanted to see what features contributed to survival and which ones contributed to death. A negative probability predicted probability for death and a positive probability predicted greater probability for survival. Specifically, I was interested in seeing if going to the hospital actually increased or decreased your rate for survival. Since going to the hospital increases your chance of getting infected while there, it is possible. Not only that, but I was wondering if getting hooked on a ventilator actually increased your rate of survival. <br/> <br/>
 
