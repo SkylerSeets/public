@@ -44,7 +44,7 @@ Unfortunately, I am unable to make any conclusions since I was not able to get a
 *__References__*: <br/>
 1.	“Cases in the U.S.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html. 
 2.	“Introduction to Boosted Trees.” Introduction to Boosted Trees - Xgboost 1.2.0-SNAPSHOT Documentation, xgboost.readthedocs.io/en/latest/tutorials/model.html.  
-3.	http://compneurosci.com/wiki/images/c/c0/Linear_Classification.pdf
+3.	Abedi, Parisa. “Linear Classification.” Compneurosci, compneurosci.com/wiki/images/c/c0/Linear_Classification.pdf.
 
 
 *__Sources__*: <br/>
