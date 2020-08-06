@@ -48,4 +48,4 @@ Unfortunately, I am unable to make any conclusions since I was not able to get a
 
 *__Sources__*: <br/>
 1.	https://www.tensorflow.org/tutorials/estimator/boosted_trees <br/>
-2.	https://www.tensorflow.org/tutorials/estimator/boosted_trees_model_understanding <br/
+2.	https://www.tensorflow.org/tutorials/estimator/boosted_trees_model_understanding 
