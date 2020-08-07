@@ -50,4 +50,5 @@ Unfortunately, I am unable to make any conclusions since I was not able to get a
 *__Sources__*: <br/>
 1.	“Boosted Trees Using Estimators: TensorFlow Core.” TensorFlow, www.tensorflow.org/tutorials/estimator/boosted_trees. 
 2.	“Gradient Boosted Trees: Model Understanding: TensorFlow Core.” TensorFlow, www.tensorflow.org/tutorials/estimator/boosted_trees_model_understanding.
+3.  “Data API.” The COVID Tracking Project, The Atlantic, covidtracking.com/data/api.
 
